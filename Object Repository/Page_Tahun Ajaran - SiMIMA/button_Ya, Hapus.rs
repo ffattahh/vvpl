@@ -1,30 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Masuk Sekarang</name>
+   <name>button_Ya, Hapus</name>
    <tag></tag>
-   <elementGuidId>1dc852aa-3b43-4d3e-b963-31dbd34b1d8d</elementGuidId>
+   <elementGuidId>896c1b4f-9cbd-4572-8107-e9939ce9ed74</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'submit' and (text() = 'Masuk Sekarang' or . = 'Masuk Sekarang')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
-         <value>.btn-login</value>
+         <value>#formDeleteTahunAjaran [type=&quot;submit&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-login ')]</value>
+         <value>//*[@id = 'formDeleteTahunAjaran']//*[@type = 'submit']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorCollection>
-      <entry>
-         <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Masuk Sekarang&quot;i]</value>
-      </entry>
-   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -33,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>576b27ae-f9f2-4f94-92bb-f66ad101d4da</webElementGuid>
+      <webElementGuid>67c99e33-76ba-411a-8c8b-f325bbcaaf5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,54 +31,60 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>a54d4d8e-cd1c-408b-b754-9ecca320c9eb</webElementGuid>
+      <webElementGuid>95c4b2b5-c3e1-43e3-a9b6-74db63dfdeb3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn-login</value>
-      <webElementGuid>3b449c02-88f5-4d37-b5aa-fec23fba7255</webElementGuid>
+      <value>flex-1 px-4 py-2 bg-red-600 text-white rounded-lg text-sm font-semibold hover:bg-red-700 transition-colors shadow-sm</value>
+      <webElementGuid>3cb13e19-ad2d-4b1b-9895-9afd22728d44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Masuk Sekarang</value>
-      <webElementGuid>10daf234-1b80-4df8-bb8a-feb1982f30c0</webElementGuid>
+      <value>
+                    Ya, Hapus
+                </value>
+      <webElementGuid>a55f4d7d-8031-40e8-881a-4819ab9d32f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-17426622019fb48d4e9d8381918d3b46</value>
-      <webElementGuid>f0628f55-a25a-48af-95c1-64d478526d73</webElementGuid>
+      <value>md5.v1-8223dc326561723369c1e776f62c64fe</value>
+      <webElementGuid>6c02fdc9-9c19-401a-b072-29c60f3e145b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-login ')]</value>
-      <webElementGuid>d695677c-ca37-475a-bd79-456893c55147</webElementGuid>
+      <value>//*[@id = 'formDeleteTahunAjaran']//*[@type = 'submit']</value>
+      <webElementGuid>85fcb5b0-24d9-4339-b0ba-108bbf4b5242</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-login ')]</value>
-      <webElementGuid>993bcb9e-0134-47b6-808f-db5dbb64b969</webElementGuid>
+      <value>//*[@id = 'formDeleteTahunAjaran']//*[@type = 'submit']</value>
+      <webElementGuid>c7714b05-093a-408e-99b8-87eaa87e1e72</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'Masuk Sekarang' or . = 'Masuk Sekarang')]</value>
-      <webElementGuid>b42b727d-0b6f-4b1c-be20-3adede785bab</webElementGuid>
+      <value>//button[@type = 'submit' and (text() = '
+                    Ya, Hapus
+                ' or . = '
+                    Ya, Hapus
+                ')]</value>
+      <webElementGuid>c7fb75d2-ab71-4bfe-895c-be86cc7f9f07</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

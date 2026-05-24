@@ -6,6 +6,10 @@
    <elementGuidId>6be0ade8-5008-46f6-a78d-34e83e265e2c</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Tahun Ajaran' or . = 'Tahun Ajaran')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>[href=&quot;\/pembelajaran\/periode-aktif\/&quot;] span:nth-child(2)</value>
       </entry>
@@ -23,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>6ff00b25-9a2b-4cb0-b098-9f172df7e8fd</webElementGuid>
+      <webElementGuid>207b8661-7d3a-4fa7-a3da-d752636749d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +35,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Tahun Ajaran</value>
-      <webElementGuid>76ce2d6e-2998-4df3-aac2-01ff558aa215</webElementGuid>
+      <webElementGuid>e9b6e3ce-45b9-44ce-93aa-d1c055650830</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +43,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-ff9564bd90fae3ac41f25df0e5dccfdd</value>
-      <webElementGuid>429d22e0-8340-4323-bd64-8bcb0dd12a16</webElementGuid>
+      <webElementGuid>62080785-e870-44f2-9201-82f0b14eba3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +51,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@href = '/pembelajaran/periode-aktif/']//*[(name() = 'span') and (position() = 2)]</value>
-      <webElementGuid>afa0537d-e498-4137-93ad-549a8622386c</webElementGuid>
+      <webElementGuid>6ea972fc-6afc-45ee-9899-e9c82156fbc0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,7 +59,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@href = '/pembelajaran/periode-aktif/']//*[(name() = 'span') and (position() = 2)]</value>
-      <webElementGuid>b211e980-2b9d-482e-b8a0-557cc0f92ae5</webElementGuid>
+      <webElementGuid>f37db2f8-45ef-4f6a-9713-0914db090bf7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,6 +67,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Tahun Ajaran' or . = 'Tahun Ajaran')]</value>
-      <webElementGuid>856117eb-0861-4951-a0b1-ed57fd3a67df</webElementGuid>
+      <webElementGuid>412a8e14-a8b5-46e8-bcb2-065fbe10d676</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

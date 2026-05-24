@@ -6,6 +6,10 @@
    <elementGuidId>6981ce29-cb65-4c1f-9f81-a760a25c6681</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '/masuk/' and (text() = 'Masuk' or . = 'Masuk')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>.rounded-lg</value>
       </entry>
@@ -23,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>e409f904-b864-453c-9cd8-ae182eaeed7a</webElementGuid>
+      <webElementGuid>f82734df-af74-4c68-b4d9-8fb9e7b02521</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +35,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/masuk/</value>
-      <webElementGuid>d19eb884-4c9b-4663-b061-4adbe2756875</webElementGuid>
+      <webElementGuid>dcba656c-9c41-4ada-80c1-114e11ea99de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +43,7 @@
       <name>class</name>
       <type>Main</type>
       <value>px-5 py-2 text-[13px] font-bold text-[#00A74D] border border-[#00A74D]/20 rounded-lg hover:bg-[#E6F6ED] transition-all</value>
-      <webElementGuid>2fe9f5b7-d109-4683-8583-08ee2495a849</webElementGuid>
+      <webElementGuid>409f80b1-cc86-4877-b8ee-5eee47e4ca0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +51,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Masuk</value>
-      <webElementGuid>0c0a03f6-63f8-4789-a966-0d213a7f7f33</webElementGuid>
+      <webElementGuid>7d8c4315-3945-49e6-8da3-aac29c453823</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +59,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-9c5bf47f5b36736ce834af5d8179eb31</value>
-      <webElementGuid>ccdedf0a-6b0e-49bf-a221-9757ae3a9b92</webElementGuid>
+      <webElementGuid>2ac29756-9977-43cd-9a1e-b1285d1d0730</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +67,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ')]</value>
-      <webElementGuid>7d975fd2-ee1c-4fd7-977a-2f7271a53b7f</webElementGuid>
+      <webElementGuid>a5049501-81b7-48b8-808f-fe2a06780bb2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +75,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ')]</value>
-      <webElementGuid>6f2cc54f-4ec8-43aa-91fb-7e5ade1bfe8b</webElementGuid>
+      <webElementGuid>0092aaa4-9ef9-4338-9e5a-4698a29dc72a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,6 +83,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/masuk/' and (text() = 'Masuk' or . = 'Masuk')]</value>
-      <webElementGuid>f2781b68-f078-4dac-ba1a-d454137be5a8</webElementGuid>
+      <webElementGuid>82c3ba1d-57b2-46bc-ac4d-6e3e17563cdc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

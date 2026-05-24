@@ -6,12 +6,16 @@
    <elementGuidId>ba3b7c32-8bac-4161-9d0a-c9dba1aaface</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id = 'id_password']</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'password' and @name = 'password' and @placeholder = 'Kata Sandi' and @id = 'id_password']</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#id_password</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'id_password']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ff37523f-596c-44ef-9b7f-310a40c69437</webElementGuid>
+      <webElementGuid>8a279981-c80a-4cb9-b52a-b53075a7bf74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +41,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>e3f17408-e09c-43c1-b583-1953691a33ef</webElementGuid>
+      <webElementGuid>4b7cf796-76b0-41ed-aa1d-284d8136f989</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +49,7 @@
       <name>name</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>4806de64-1b2e-4fcf-9344-cee4cb46647c</webElementGuid>
+      <webElementGuid>28ad9f28-fa66-4273-8fe7-c82138d02341</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +57,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>994a093d-b63c-49d4-bff7-aa6cfbe2db1d</webElementGuid>
+      <webElementGuid>6e4412a1-aefb-4710-96d7-26050c8a7161</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +65,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Kata Sandi</value>
-      <webElementGuid>c2842526-515a-416d-b587-6ef1fa1b2718</webElementGuid>
+      <webElementGuid>14640a87-458e-4158-b054-c108399c2b88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +73,7 @@
       <name>id</name>
       <type>Main</type>
       <value>id_password</value>
-      <webElementGuid>5f945fdd-2e48-48a5-8bba-d3b7c7ca5199</webElementGuid>
+      <webElementGuid>487479ae-e596-4412-9273-9cda9f9fde35</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-99ec08782f4081a045e416d2aed92c3b</value>
-      <webElementGuid>c29b7bbd-8477-43f1-ad70-a6e5cc0ebc6c</webElementGuid>
+      <webElementGuid>bd9e8abe-cb7b-4c73-89ca-9fce610431d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'id_password']</value>
-      <webElementGuid>f6fb981f-a888-4dde-a07a-bf1740737531</webElementGuid>
+      <webElementGuid>719d72b8-fe06-4cee-b0ed-7c4dcfa9cfc9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +97,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'id_password']</value>
-      <webElementGuid>9d061e4e-f212-483e-82f3-822ec4c6e77e</webElementGuid>
+      <webElementGuid>84f1e113-244e-45a3-99e8-8ca563b708cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +105,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @name = 'password' and @placeholder = 'Kata Sandi' and @id = 'id_password']</value>
-      <webElementGuid>ef870a0d-22a5-43a7-9c97-0db233e81f81</webElementGuid>
+      <webElementGuid>65f0e369-ac0f-4755-8b2c-65563a0579c9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
