@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_delete</name>
+   <tag></tag>
+   <elementGuidId>f5bc6237-351e-4a2f-95b3-9a02aefb3929</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[data-nama=&quot;kewarganegaraan&quot;][onclick=&quot;openModalHapusMapel\(this\)&quot;] .material-symbols-outlined</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(@data-nama = 'kewarganegaraan') and (@onclick = 'openModalHapusMapel(this)')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' material-symbols-outlined ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fc3574f9-7bec-4947-bc56-4a939ca0d094</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-symbols-outlined</value>
+      <webElementGuid>15d2d1b6-b26e-417b-a2b2-b73d456238f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>delete</value>
+      <webElementGuid>af28cc52-ccf7-4b0d-83f4-d0937a6944a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-65e4f4f84e3f1eafece91e9a91f21c0b</value>
+      <webElementGuid>b6d6a289-1902-4dcc-983f-e713a5430e0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(@data-nama = 'kewarganegaraan') and (@onclick = 'openModalHapusMapel(this)')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' material-symbols-outlined ')]</value>
+      <webElementGuid>da694cd2-a180-4b74-9766-c741191d5c2e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(@data-nama = 'kewarganegaraan') and (@onclick = 'openModalHapusMapel(this)')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' material-symbols-outlined ')]</value>
+      <webElementGuid>3cd4455e-a3b5-411b-9152-a8fdf104a72f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'delete' or . = 'delete')]</value>
+      <webElementGuid>fe6b0d8f-7a09-4fbd-99ae-07ce835414c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Masuk</name>
+   <name>button_Hapus</name>
    <tag></tag>
-   <elementGuidId>6981ce29-cb65-4c1f-9f81-a760a25c6681</elementGuidId>
+   <elementGuidId>e7dd6b18-d8a1-44a0-a74c-1377a9394302</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@href = '/masuk/' and (text() = 'Masuk' or . = 'Masuk')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
-         <value>.rounded-lg</value>
+         <value>#formHapusMapel [type=&quot;submit&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ')]</value>
+         <value>//*[@id = 'formHapusMapel']//*[@type = 'submit']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -26,63 +22,69 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>17a79fdd-7128-4597-a1fe-17d039238b26</webElementGuid>
+      <value>button</value>
+      <webElementGuid>0bfefa01-1a79-470e-976f-5daedeb4b8d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>type</name>
       <type>Main</type>
-      <value>/masuk/</value>
-      <webElementGuid>d33f9996-4faa-46e1-bd08-f177784c8477</webElementGuid>
+      <value>submit</value>
+      <webElementGuid>c421a98c-4d36-4fa8-9df2-e35574183bc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>px-5 py-2 text-[13px] font-bold text-[#00A74D] border border-[#00A74D]/20 rounded-lg hover:bg-[#E6F6ED] transition-all</value>
-      <webElementGuid>4ae8d8af-58aa-4bc9-8180-9dc0e19a01f1</webElementGuid>
+      <value>flex-1 px-4 py-2.5 bg-red-600 text-white rounded-lg text-sm font-semibold hover:bg-red-700 transition-colors shadow-sm</value>
+      <webElementGuid>8e8623a7-1ec9-486a-a66f-3f2002f54379</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Masuk</value>
-      <webElementGuid>bf22e071-ba69-45cc-95f8-42838c00d8e6</webElementGuid>
+      <value>
+          Hapus
+        </value>
+      <webElementGuid>7b0c5be2-e363-4a68-8c25-43560cc8c805</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-9c5bf47f5b36736ce834af5d8179eb31</value>
-      <webElementGuid>63263256-a846-4995-b9ec-6a79017fbd3a</webElementGuid>
+      <value>md5.v1-a56b1f6e80fde166a94e31a581edcd44</value>
+      <webElementGuid>d9f415e0-4388-4cf3-85ba-2a18bfd49961</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ')]</value>
-      <webElementGuid>c7bf8d00-edc5-489b-91a2-49667c452483</webElementGuid>
+      <value>//*[@id = 'formHapusMapel']//*[@type = 'submit']</value>
+      <webElementGuid>e923ddc5-2d4c-4b4f-9933-fbb8e2ec0c4c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ')]</value>
-      <webElementGuid>35c2e2d8-a231-4a4f-bc5d-48fc041fef5f</webElementGuid>
+      <value>//*[@id = 'formHapusMapel']//*[@type = 'submit']</value>
+      <webElementGuid>9356200f-e021-4dca-9807-e236550d2416</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/masuk/' and (text() = 'Masuk' or . = 'Masuk')]</value>
-      <webElementGuid>fc0a7841-eb80-4d68-8645-552d3a2d1363</webElementGuid>
+      <value>//button[@type = 'submit' and (text() = '
+          Hapus
+        ' or . = '
+          Hapus
+        ')]</value>
+      <webElementGuid>9a4fdad0-f8f4-4e62-98d9-b47de5fe79a2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

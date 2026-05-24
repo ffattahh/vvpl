@@ -6,6 +6,16 @@
    <elementGuidId>3ee87b5c-ccd1-4182-96e3-9002d36ff41e</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '/pembelajaran/kurikulum/' and (text() = '
+                            •
+                            Pelajaran
+                        ' or . = '
+                            •
+                            Pelajaran
+                        ')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>[href=&quot;\/pembelajaran\/kurikulum\/&quot;]</value>
       </entry>
@@ -23,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>0a2e1b1f-6de5-4c5c-8eac-795317ee10be</webElementGuid>
+      <webElementGuid>0cadc9ab-ce19-4c87-a756-617905a1fa51</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +41,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/pembelajaran/kurikulum/</value>
-      <webElementGuid>29cd339c-6054-4cb9-87b6-d2d9af246ac6</webElementGuid>
+      <webElementGuid>dba579a5-f281-43f0-a200-5ee2905d516e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +49,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link sub-link relative pl-6 pr-3 py-2 text-[#64748b] no-underline rounded-[10px] font-medium text-[13px] hover:bg-[#f8fafc] hover:text-[#0f172a] </value>
-      <webElementGuid>5ab29a8a-f108-4340-861f-45d9a4e9c2a9</webElementGuid>
+      <webElementGuid>208e06a4-0079-4b0e-a039-278a80e92631</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +60,7 @@
                             •
                             Pelajaran
                         </value>
-      <webElementGuid>3dca58bc-46fa-42e5-9221-b13115804788</webElementGuid>
+      <webElementGuid>fd992f3d-e041-4c06-8e60-f9cd5fbe8abc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +68,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-866fc43d8ebceadade7caac34536de28</value>
-      <webElementGuid>ded84e1c-2ffe-4086-ad3d-61e1f7877d73</webElementGuid>
+      <webElementGuid>d62f2c0a-703e-42f0-bff0-e9a3f8d77ce6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +76,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@href = '/pembelajaran/kurikulum/']</value>
-      <webElementGuid>7e150795-c7a9-46fa-a856-8004a64d5b5b</webElementGuid>
+      <webElementGuid>a7bfa02a-43b4-4e2a-8323-06f04e462f2b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +84,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@href = '/pembelajaran/kurikulum/']</value>
-      <webElementGuid>9991fe6e-7147-4b73-b576-943b8b2783f1</webElementGuid>
+      <webElementGuid>d9d16e05-8a63-4dcb-bc1f-4d79eefeacf5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,6 +98,6 @@
                             •
                             Pelajaran
                         ')]</value>
-      <webElementGuid>ebf2f8ac-1ebf-44b7-89c9-3149785d277d</webElementGuid>
+      <webElementGuid>00bf6716-1173-4a8e-83bd-8592b2b13952</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
