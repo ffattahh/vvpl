@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Mengosongkannamamapel</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8b3dbdfd-5cc3-4bc8-a1e0-32705188fceb</testCaseGuid>
+</TestCaseEntity>

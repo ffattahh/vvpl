@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Tambahpelajaranyangsudahterdaftar</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7630192e-9503-466f-a78d-eb474b5c31d3</testCaseGuid>
+</TestCaseEntity>

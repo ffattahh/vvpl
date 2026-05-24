@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Masuk (20)</name>
+   <tag></tag>
+   <elementGuidId>76c7645c-0770-4da9-8b29-5ea8eadd76b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.rounded-lg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6149ae9e-6fa5-4535-8fac-351d41d1ef4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/masuk/</value>
+      <webElementGuid>3b736bf8-dcda-4b06-9712-c89a5371de4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-5 py-2 text-[13px] font-bold text-[#00A74D] border border-[#00A74D]/20 rounded-lg hover:bg-[#E6F6ED] transition-all</value>
+      <webElementGuid>e7e1e81e-d40b-44d5-be17-b3f749eeddb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masuk</value>
+      <webElementGuid>38727cad-29f5-4a4a-aa54-1fb638ccc976</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-9c5bf47f5b36736ce834af5d8179eb31</value>
+      <webElementGuid>a130bbba-f8e2-4139-8c6a-25af1ebcbbcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ')]</value>
+      <webElementGuid>c5710ba7-5b38-4913-8b23-86ada7b240f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ')]</value>
+      <webElementGuid>8d00c620-0e2e-4b87-971c-3972600f9e9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/masuk/' and (text() = 'Masuk' or . = 'Masuk')]</value>
+      <webElementGuid>b1c6544a-c563-4005-80b5-0324643e6a46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

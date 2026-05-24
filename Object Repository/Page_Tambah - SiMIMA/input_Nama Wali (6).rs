@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Nama Wali (6)</name>
+   <tag></tag>
+   <elementGuidId>9ea40a41-ba30-4e11-bd66-6366a64b081b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'id_wali_nama']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#id_wali_nama</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>df728c96-15b1-4c94-827d-a70230698737</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>5b64bd4f-d8ee-4b6e-ab3e-d0452b8e7051</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>wali_nama</value>
+      <webElementGuid>bb49dd39-a5e2-44ea-97e0-76d3c558c4cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>cab97ed9-1a53-435c-877c-91dd19a4c44c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>id_wali_nama</value>
+      <webElementGuid>af6017e5-9410-4b18-bd80-dd5cd4a2b7e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-385545e73ed65d436f501db591fcb11b</value>
+      <webElementGuid>a6c6c6dd-f820-49c1-903d-16f736322033</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'id_wali_nama']</value>
+      <webElementGuid>8823cd5c-bc2e-4bb9-869c-8605bba604e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'id_wali_nama']</value>
+      <webElementGuid>037b1909-ee20-4da4-aaaa-716293aefd78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'wali_nama' and @id = 'id_wali_nama']</value>
+      <webElementGuid>9c108088-6cf4-43f9-9b7a-f2b03ce49d59</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_edit</name>
+   <tag></tag>
+   <elementGuidId>d8229aad-8fe6-437d-84ea-0ff2111aab52</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-nama = 'Pendidikan Jasmani &amp; Olahraga']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' material-symbols-outlined ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[data-nama=&quot;Pendidikan\ Jasmani\ \&amp;\ Olahraga&quot;] .material-symbols-outlined</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>be38b1bf-909c-4cce-9b7c-2d91382af4f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-symbols-outlined</value>
+      <webElementGuid>135e9e27-1528-4f03-bba9-c0e8fdb1dfd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>edit</value>
+      <webElementGuid>07a5266c-8844-4125-b813-253c06a630e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-f607d29a2053de6e0178d7dff692c217</value>
+      <webElementGuid>d912e97b-3f98-499f-b3d5-a0fc6c4731dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-nama = 'Pendidikan Jasmani &amp; Olahraga']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' material-symbols-outlined ')]</value>
+      <webElementGuid>dd701e6b-126c-4a4f-a215-e406099e2449</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-nama = 'Pendidikan Jasmani &amp; Olahraga']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' material-symbols-outlined ')]</value>
+      <webElementGuid>5440d41d-404f-4035-b353-ee7df1a2251b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'edit' or . = 'edit')]</value>
+      <webElementGuid>0923f0bd-098e-4ba0-80b6-a61c01ab91c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

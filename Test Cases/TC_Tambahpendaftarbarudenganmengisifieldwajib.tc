@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Tambahpendaftarbarudenganmengisifieldwajib</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bef56cf2-4979-4566-b2da-6a201db97623</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Aktifkan tahun ajaran ini</name>
+   <tag></tag>
+   <elementGuidId>a3b33418-8993-4dd5-936c-7ce2a121ddf9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#status_aktif</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'status_aktif']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>09bbf41d-500e-4b62-b435-5009454a6eab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>095c6ec8-d0cb-4ab4-b22b-cdf8d0698cae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>status_aktif</value>
+      <webElementGuid>0c4be3fd-8dd8-4610-8bea-afbf616b3774</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>status_aktif</value>
+      <webElementGuid>faba8003-6218-46ee-99d5-b724759b8374</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-4 h-4 text-[#00A74D] rounded focus:ring-2 focus:ring-[#00A74D]</value>
+      <webElementGuid>4de12087-aa3f-4a9e-a5a5-164d8e27c067</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-61df204dd6f4fad407cc44736fda00a9</value>
+      <webElementGuid>84be7b87-ebc0-406c-8461-ce5da2771ce9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'status_aktif']</value>
+      <webElementGuid>33e02793-9332-4ac8-b634-86cfe302b160</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'status_aktif']</value>
+      <webElementGuid>e59518fa-fd4a-4120-8f49-3cd05defcd76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox' and @id = 'status_aktif' and @name = 'status_aktif']</value>
+      <webElementGuid>91da29a8-bb24-4ac9-8f85-c894ea870a3f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

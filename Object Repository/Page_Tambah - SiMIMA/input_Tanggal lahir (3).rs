@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Tanggal lahir (3)</name>
+   <tag></tag>
+   <elementGuidId>eb973ba7-97f6-4a49-a896-129778ce7151</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'id_tanggal_lahir']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#id_tanggal_lahir</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>4dc7c686-d3c5-4745-bb8e-d267e0b86a76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>date</value>
+      <webElementGuid>de5dc490-0fb3-4ed3-854d-6a79a2fd5df9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>tanggal_lahir</value>
+      <webElementGuid>6a553bbd-2def-4768-8514-caa51556f038</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>9a47065d-0bba-41ed-b0bc-7a4b22072172</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>id_tanggal_lahir</value>
+      <webElementGuid>41ed1b92-cbb5-495c-9fe7-672baf85beee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-3dd29a9845216d6223df21b35a2c2cee</value>
+      <webElementGuid>79484cd1-6647-49e8-b7c3-340ae099c0b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'id_tanggal_lahir']</value>
+      <webElementGuid>992e7c24-0926-4469-9134-6078b7f5f89d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'id_tanggal_lahir']</value>
+      <webElementGuid>c4036888-c371-45b9-b5a9-9aaf9126d7f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'date' and @name = 'tanggal_lahir' and @id = 'id_tanggal_lahir']</value>
+      <webElementGuid>3b63726c-fc55-4127-9045-c00eb63b9375</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_currentTime</name>
+   <tag></tag>
+   <elementGuidId>281da114-5ede-4eb1-857e-f8197c935963</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'currentTime']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#currentTime</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;21:38:55 WIB&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2186be8b-5ef0-4909-8629-0bb45a1fd6c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>currentTime</value>
+      <webElementGuid>00a5a68b-8bb9-40a1-af0d-f859f82e0594</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>21:38:55 WIB</value>
+      <webElementGuid>e43a4f8d-4d7f-4b6c-a81a-b38187c0c9b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-da999e9237543c4c465f561bc21c522d</value>
+      <webElementGuid>6202daa0-868f-4b9b-8222-cedbde157ff1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'currentTime']</value>
+      <webElementGuid>cc1d7f27-fe0d-4980-bfff-c44c8c8c4cb1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'currentTime']</value>
+      <webElementGuid>dc9438c5-6702-4157-bf2f-d531ef745316</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'currentTime' and (text() = '21:38:55 WIB' or . = '21:38:55 WIB')]</value>
+      <webElementGuid>329104d0-7f4a-4f6c-8be8-9d44adf2e5fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

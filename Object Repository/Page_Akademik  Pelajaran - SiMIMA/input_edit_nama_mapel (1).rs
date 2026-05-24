@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_edit_nama_mapel (1)</name>
+   <tag></tag>
+   <elementGuidId>6e06dacf-74c1-458c-a9e5-b09bcba1df89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'edit_nama_mapel']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#edit_nama_mapel</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>143a76f0-6ac2-42ab-ae9e-49e0263a2655</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>8383c803-8766-463a-b296-5d431875256c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>edit_nama_mapel</value>
+      <webElementGuid>e141b04c-d0b7-4962-9ab0-99220925bdcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>nama_mapel</value>
+      <webElementGuid>c7c5e58b-3152-472d-85b7-060faf533c0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full px-4 py-2.5 border border-gray-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-[#00A74D] focus:border-[#00A74D]</value>
+      <webElementGuid>134859dd-34a2-493f-99cd-732d041df005</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-8a827b24592f0b190af23a63642a21f3</value>
+      <webElementGuid>e53d0482-36a0-423b-a0ee-55b25a4b6d7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'edit_nama_mapel']</value>
+      <webElementGuid>6266632a-0c1a-48c9-b321-99d7130bf841</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'edit_nama_mapel']</value>
+      <webElementGuid>34c14f9f-4436-44c9-9e0a-e4ef29d8dd2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'edit_nama_mapel' and @name = 'nama_mapel']</value>
+      <webElementGuid>dfadea0b-7e5b-4314-b3f8-635dc658bb78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

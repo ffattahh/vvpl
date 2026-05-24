@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_edit_keterangan (1)</name>
+   <tag></tag>
+   <elementGuidId>6fd574c6-3260-4246-8a09-29d60951c458</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'edit_keterangan']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#edit_keterangan</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>4a82d5bb-27c8-4225-8c03-e51806286ef4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>edit_keterangan</value>
+      <webElementGuid>8cb70808-109d-412f-93ae-d7b18c27aa55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>keterangan</value>
+      <webElementGuid>a844f727-616f-4c65-9703-dffdff859f8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>8b73f6f3-3c88-4bf8-8920-9fc88c4a4af2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full px-4 py-2.5 border border-gray-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-[#00A74D] focus:border-[#00A74D] resize-none</value>
+      <webElementGuid>b546f9c9-ee5d-4c41-84c0-7835167e7368</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-507856777625188a3a4f658f16640603</value>
+      <webElementGuid>3b24ac62-2de1-470f-9480-d4e756db3181</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'edit_keterangan']</value>
+      <webElementGuid>b7db6db2-5c8f-4da5-bde0-d7cabb4dce87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'edit_keterangan']</value>
+      <webElementGuid>0a3e2fbf-d48b-4809-b0cc-e73928e9c25d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@id = 'edit_keterangan' and @name = 'keterangan']</value>
+      <webElementGuid>dadf21e4-c8b8-4969-b4f9-165ea56357a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

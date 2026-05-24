@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_tahun_selesai</name>
+   <tag></tag>
+   <elementGuidId>3617a41a-474e-4460-b2e5-6029315f2c23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#formTambahTahunAjaran [name=&quot;tahun_selesai&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'formTambahTahunAjaran']//*[@name = 'tahun_selesai']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>7cbd7f49-bce0-401b-a237-f3b345475b64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>date</value>
+      <webElementGuid>0b893c9e-2846-4348-9376-76b0c75c1a0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>tahun_selesai</value>
+      <webElementGuid>46600684-28c2-4706-a6b5-d4dbd7ff7d5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full px-3 py-2 border border-gray-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-[#00A74D] focus:border-[#00A74D] transition-all</value>
+      <webElementGuid>b57764f4-5a17-46f2-a69f-99ee2d42ef48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-be7c4867f1e6c81ab9ae36b7ac97c086</value>
+      <webElementGuid>8e8e791b-1f03-4f12-951f-ad2659f22cef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'formTambahTahunAjaran']//*[@name = 'tahun_selesai']</value>
+      <webElementGuid>fef6a3c4-3e63-4eed-bf41-669af3c5d8fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'formTambahTahunAjaran']//*[@name = 'tahun_selesai']</value>
+      <webElementGuid>fed0a733-cfd2-4f0c-b124-5e49c2bb9ae1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'date' and @name = 'tahun_selesai']</value>
+      <webElementGuid>eb6ee9a0-d16e-4207-a3e8-b4b1e6f5f0ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

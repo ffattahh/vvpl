@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_edit_kode_mapel (2)</name>
+   <tag></tag>
+   <elementGuidId>bee87879-fcac-4c93-ba49-b4a54844c5f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'edit_kode_mapel']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#edit_kode_mapel</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>9ec9ba8e-a043-4231-b480-2e2f2b70ba61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>5e0bfbe5-e569-43e6-b2f4-4e5e1198194f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>edit_kode_mapel</value>
+      <webElementGuid>7d075dee-3c57-4602-8ae1-32bae704ce47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>kode_mapel</value>
+      <webElementGuid>5e776f5b-878b-48be-90bd-9445d3f11eae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full px-4 py-2.5 border border-gray-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-[#00A74D] focus:border-[#00A74D]</value>
+      <webElementGuid>ed88a3de-7f99-4e7a-a773-013fff0b68a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-e85f0587f537043672c16d2d12105ee6</value>
+      <webElementGuid>28d9cff0-6a90-4c68-9e30-b0ca2c629da7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'edit_kode_mapel']</value>
+      <webElementGuid>6055ccad-1acc-4ee8-a3cf-9b1e418be9e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'edit_kode_mapel']</value>
+      <webElementGuid>d5eff5e1-d2c9-44d8-9332-8f52707bb327</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'edit_kode_mapel' and @name = 'kode_mapel']</value>
+      <webElementGuid>68bb5acc-4fb8-47d7-a5b5-38e44d16a895</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

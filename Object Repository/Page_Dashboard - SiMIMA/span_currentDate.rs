@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_currentDate</name>
+   <tag></tag>
+   <elementGuidId>e84c2871-7e5f-432e-a781-9bf8f996acd0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'currentDate']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#currentDate</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Jumat, 27 Maret 2026&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6cfe9e05-b3f5-4bf2-b2f5-74446fa2ff13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>currentDate</value>
+      <webElementGuid>6e480eca-71ac-4176-a0ab-bf8fc51cea4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jumat, 27 Maret 2026</value>
+      <webElementGuid>817c2274-a0a4-4bdb-bb32-5753246fb1e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-880ca711589a457edc0ad45f59c61cca</value>
+      <webElementGuid>e3b16719-85ad-459b-af0d-cc4dc260b7a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'currentDate']</value>
+      <webElementGuid>3aca634a-6072-4edf-9901-ca909618d9b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'currentDate']</value>
+      <webElementGuid>0cc7ab52-1a3e-46ed-9009-54c91909faa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'currentDate' and (text() = 'Jumat, 27 Maret 2026' or . = 'Jumat, 27 Maret 2026')]</value>
+      <webElementGuid>2df75bf8-e4e5-4c00-8452-761b87d2ece2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

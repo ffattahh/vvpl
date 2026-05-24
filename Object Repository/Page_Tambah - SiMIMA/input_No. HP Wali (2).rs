@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_No. HP Wali (2)</name>
+   <tag></tag>
+   <elementGuidId>aa60a87a-1c7f-4895-9b66-0ff5563d4cde</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'id_wali_no_telepon']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#id_wali_no_telepon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ff14f125-da99-431f-9000-444b40575676</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>22948de0-0130-46ee-b4fb-8e6cf50805bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>wali_no_telepon</value>
+      <webElementGuid>abbc2752-3dcd-4ced-81ac-11b326b59989</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>f80e6be9-5d07-4f04-b97d-2193cda5628f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>id_wali_no_telepon</value>
+      <webElementGuid>3b3696e7-749a-496d-9e8b-26ac0bb9b311</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-02a7f5ca6427b5930cf7e9c3cf29da0c</value>
+      <webElementGuid>c3f82842-8376-4507-8710-96ca4aba770e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'id_wali_no_telepon']</value>
+      <webElementGuid>9f08b755-1364-4bfb-a6f9-23ea04f12e95</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'id_wali_no_telepon']</value>
+      <webElementGuid>73013f9c-78c9-413a-9c39-588d5401598b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'wali_no_telepon' and @id = 'id_wali_no_telepon']</value>
+      <webElementGuid>64ad7c5a-eb3d-4527-bdc5-bfbbebb05021</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

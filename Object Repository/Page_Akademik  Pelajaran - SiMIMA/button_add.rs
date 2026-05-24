@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_add</name>
+   <tag></tag>
+   <elementGuidId>8d48f7e2-4698-42e7-9b0f-9a7384c91fb5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[onclick=&quot;openModalTambahMapel\(\)&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@onclick = 'openModalTambahMapel()']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f40dacfe-6d04-429e-9fdc-a9be84660345</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>97ab479f-747e-47f4-ab5c-21b43d4a38f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>openModalTambahMapel()</value>
+      <webElementGuid>061f23ff-173f-4b41-84be-38cec5a29a52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center gap-1.5 px-4 py-2 rounded-lg text-sm font-medium text-white transition-colors</value>
+      <webElementGuid>76319484-ce71-4bb2-bfbf-513b1dede717</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onmouseover</name>
+      <type>Main</type>
+      <value>this.style.background='#008f3f'</value>
+      <webElementGuid>815de1d8-92e0-4e08-b56c-46155219454b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onmouseout</name>
+      <type>Main</type>
+      <value>this.style.background='#00A74D'</value>
+      <webElementGuid>81d35a41-4122-4b68-86bd-a1d5e22c70f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        add
+        Tambah Mapel
+      </value>
+      <webElementGuid>0a65d45a-5fcc-4aa2-b07a-9ee095008cbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-d85fde8c6512c338e76f0e167c4ebee0</value>
+      <webElementGuid>d3926221-eccb-4e8f-98f6-373c5f676136</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@onclick = 'openModalTambahMapel()']</value>
+      <webElementGuid>f5838a46-cc14-41dd-be12-d861d1ef8a67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@onclick = 'openModalTambahMapel()']</value>
+      <webElementGuid>a71fc612-e537-45b1-8371-02e91a78193b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+        add
+        Tambah Mapel
+      ' or . = '
+        add
+        Tambah Mapel
+      ')]</value>
+      <webElementGuid>b18c3071-11fc-4e9e-bdea-a5ce420bde43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

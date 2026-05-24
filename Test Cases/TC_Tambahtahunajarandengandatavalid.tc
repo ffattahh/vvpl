@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Tambahtahunajarandengandatavalid</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c706df3b-a7d6-4088-ab3a-e57c7a06f61e</testCaseGuid>
+</TestCaseEntity>
