@@ -1,30 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Kata Sandi</name>
+   <name>textarea_Detail kegiatan</name>
    <tag></tag>
-   <elementGuidId>ba3b7c32-8bac-4161-9d0a-c9dba1aaface</elementGuidId>
+   <elementGuidId>74d42d0b-856e-4b9e-ad7e-5f3457cc820a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'password' and @name = 'password' and @placeholder = 'Kata Sandi' and @id = 'id_password']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
-         <value>#id_password</value>
+         <value>#modal-keterangan</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id = 'id_password']</value>
+         <value>//*[@id = 'modal-keterangan']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorCollection>
-      <entry>
-         <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Kata Sandi&quot;i]</value>
-      </entry>
-   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -32,79 +22,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>00e6b2cc-c4d5-4118-ace0-85cf0bc4e2b5</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>ebc90614-243f-4cf6-9826-3883c068e646</webElementGuid>
+      <value>textarea</value>
+      <webElementGuid>bdd62717-1777-4838-a2f3-21e48e7d7ce8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>ee4f17ea-c2de-4b45-92f5-2cf0530238e4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>cf0fb3b1-7aa3-4736-970a-84ed2dffa77e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Kata Sandi</value>
-      <webElementGuid>093ea375-aab0-4089-84a2-ae5bd613c752</webElementGuid>
+      <value>keterangan</value>
+      <webElementGuid>3b024cf8-3633-492f-b41e-5222fd9bcea8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>id_password</value>
-      <webElementGuid>c52c7c4a-a71d-4f43-be2c-e1ed2c4dae05</webElementGuid>
+      <value>modal-keterangan</value>
+      <webElementGuid>cbc68274-c5d4-450d-a78c-280e9c19e3b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>4426fbd8-18d0-4df8-9153-9c7ad51cc08f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full px-4 py-2.5 bg-slate-50 border border-slate-200 rounded-xl text-sm focus:ring-2 focus:ring-[#00A74D]/20 focus:border-[#00A74D] outline-none transition-all</value>
+      <webElementGuid>69b3e8e7-b755-4010-9e40-315a4bc0d7d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Detail kegiatan...</value>
+      <webElementGuid>f2be10bd-f2c2-4d44-a15c-6258208b4a4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-99ec08782f4081a045e416d2aed92c3b</value>
-      <webElementGuid>db3b7358-ba69-42fe-b89f-0f930e8b0e4f</webElementGuid>
+      <value>md5.v1-73d2e2d4b3aaaccbae014d5be6e8d5af</value>
+      <webElementGuid>8485dd52-b537-4f45-8b1a-8411094b1b2d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id = 'id_password']</value>
-      <webElementGuid>5ded0716-3f2c-4ec6-bd01-fd880d55d2b0</webElementGuid>
+      <value>//*[@id = 'modal-keterangan']</value>
+      <webElementGuid>fc4fa441-06c6-4c4e-8465-61bd0c9c1b96</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@id = 'id_password']</value>
-      <webElementGuid>7c3516cd-45cf-4a90-983a-28b3a289859c</webElementGuid>
+      <value>//*[@id = 'modal-keterangan']</value>
+      <webElementGuid>490d9ba5-3a74-4cb6-bcdb-4ee554503c10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @name = 'password' and @placeholder = 'Kata Sandi' and @id = 'id_password']</value>
-      <webElementGuid>b4bc473e-c7c8-4c11-a93a-07f3b01ab41e</webElementGuid>
+      <value>//textarea[@name = 'keterangan' and @id = 'modal-keterangan' and @placeholder = 'Detail kegiatan...']</value>
+      <webElementGuid>ec1aac72-b10e-4de1-992c-ce40043eb040</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

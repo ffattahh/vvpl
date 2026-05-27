@@ -1,30 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_No.HP _ Username</name>
+   <name>input_Contoh_ budi.santoso</name>
    <tag></tag>
-   <elementGuidId>fd355ea0-686d-450f-9759-2c87d308cfad</elementGuidId>
+   <elementGuidId>a16fb4ad-4510-4ec6-8dd2-d3db4b02398f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@type = 'text' and @name = 'username' and @placeholder = 'No.HP / Username' and @id = 'id_username']</value>
+         <value>//*[@type = 'text' and @name = 'username' and @placeholder = 'Contoh: budi.santoso']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#id_username</value>
+         <value>[name=&quot;username&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id = 'id_username']</value>
+         <value>//*[@name = 'username']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorCollection>
-      <entry>
-         <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;No.HP / Username&quot;i]</value>
-      </entry>
-   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -33,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>febc7450-71b1-4dbd-8796-3acc06ab689b</webElementGuid>
+      <webElementGuid>28489573-a168-4bd3-a2c6-a6eb9a9d0f7b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +35,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>ae226ccc-137a-44ca-b9f0-3708b0f9a4dd</webElementGuid>
+      <webElementGuid>9453ff85-af55-4715-9f5a-cc80cd867841</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,70 +43,54 @@
       <name>name</name>
       <type>Main</type>
       <value>username</value>
-      <webElementGuid>573ced6d-7530-4bfe-b12b-d15fc1a8b08a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>8078f28b-cf79-4ce2-a9d7-5c3b4f448ce8</webElementGuid>
+      <webElementGuid>7012bfe1-5c05-4848-b640-ef9a7b7d3d2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>No.HP / Username</value>
-      <webElementGuid>d4e867a8-ad96-410a-8929-39c155dfabd4</webElementGuid>
+      <value>Contoh: budi.santoso</value>
+      <webElementGuid>fcad8363-60e2-467d-99f9-c9eebd0fd474</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>maxlength</name>
+      <name>class</name>
       <type>Main</type>
-      <value>50</value>
-      <webElementGuid>990c51fc-25b0-4659-8751-2a8c15488412</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>id_username</value>
-      <webElementGuid>00e2bd5c-2404-43a4-a929-dd4c347782fa</webElementGuid>
+      <value>compact-control w-full px-3.5 py-2.5 border border-gray-300 rounded-lg text-sm text-gray-700 placeholder-gray-400 focus:outline-none focus:border-[#00A74D] transition-colors</value>
+      <webElementGuid>01f79ddb-430d-4f01-b3a9-b55554db4994</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-a57812215e19a1eb1aff0815b4401c5c</value>
-      <webElementGuid>0b3a898e-cc25-421b-8486-84ef035aa05b</webElementGuid>
+      <value>md5.v1-9bfcab1ad9353fa25cc2b736d671b8c8</value>
+      <webElementGuid>9eba0bd1-2e2d-43e9-83a7-4a5cbbd62374</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id = 'id_username']</value>
-      <webElementGuid>a69b4677-2faa-4672-b542-aebb5490a446</webElementGuid>
+      <value>//*[@name = 'username']</value>
+      <webElementGuid>260956b4-0156-4d04-be3e-6da2c9e3a7cb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@id = 'id_username']</value>
-      <webElementGuid>a3cd57a2-fe75-4162-b1b7-87e85681b1ea</webElementGuid>
+      <value>//*[@name = 'username']</value>
+      <webElementGuid>8b9b0c4d-a51f-427f-88f8-a1ed07c3c38a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'username' and @placeholder = 'No.HP / Username' and @id = 'id_username']</value>
-      <webElementGuid>52168223-51dd-4305-b92e-2721a282162d</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'username' and @placeholder = 'Contoh: budi.santoso']</value>
+      <webElementGuid>52aa9d30-a3cc-4ace-89e4-f08880a61b90</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

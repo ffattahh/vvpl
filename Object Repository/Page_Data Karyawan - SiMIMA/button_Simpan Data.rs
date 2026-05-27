@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Masuk</name>
+   <name>button_Simpan Data</name>
    <tag></tag>
-   <elementGuidId>6981ce29-cb65-4c1f-9f81-a760a25c6681</elementGuidId>
+   <elementGuidId>04caa661-2a2e-4273-a117-8c3936e848ca</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@href = '/masuk/' and (text() = 'Masuk' or . = 'Masuk')]</value>
+         <value>//*[@type = 'submit' and @form = 'formTambahTendik' and (text() = 'Simpan Data' or . = 'Simpan Data')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>.rounded-lg</value>
+         <value>[form=&quot;formTambahTendik&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ')]</value>
+         <value>//*[@form = 'formTambahTendik']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -26,63 +26,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>8eab33b9-4952-463a-84e5-24bbbe51de92</webElementGuid>
+      <value>button</value>
+      <webElementGuid>37944d3c-fde4-420d-93f9-f018f3ea0623</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>type</name>
       <type>Main</type>
-      <value>/masuk/</value>
-      <webElementGuid>14b4376f-af8e-49d8-94d3-27cacaf566dd</webElementGuid>
+      <value>submit</value>
+      <webElementGuid>684475bf-2e60-477a-a404-136270dd3c1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>form</name>
+      <type>Main</type>
+      <value>formTambahTendik</value>
+      <webElementGuid>5aea4889-a485-436e-b385-3edb390c394d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>px-5 py-2 text-[13px] font-bold text-[#00A74D] border border-[#00A74D]/20 rounded-lg hover:bg-[#E6F6ED] transition-all</value>
-      <webElementGuid>71ae410c-81d9-4c5d-a4ae-d00a491435b8</webElementGuid>
+      <value>px-4 py-2 text-sm font-semibold text-white bg-[#00A74D] border-none rounded-lg hover:bg-[#009944] transition-colors</value>
+      <webElementGuid>64efb88b-d066-4eb1-80cc-25374e493a8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Masuk</value>
-      <webElementGuid>f6909d26-8976-4fde-aa71-0e2bed258106</webElementGuid>
+      <value>Simpan Data</value>
+      <webElementGuid>44f39ddc-2d15-4f49-bb97-a55c56f1a7b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-9c5bf47f5b36736ce834af5d8179eb31</value>
-      <webElementGuid>61ba54a2-ca45-4033-a27b-83b1b712812a</webElementGuid>
+      <value>md5.v1-3cb82d2093b68f79832d9bc083dd8d9a</value>
+      <webElementGuid>d07ff9ce-3c47-4dda-b5ec-e4aaa8909476</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ')]</value>
-      <webElementGuid>fbf25206-da18-4ddc-b25b-0feece9f8645</webElementGuid>
+      <value>//*[@form = 'formTambahTendik']</value>
+      <webElementGuid>591f995a-bf23-4139-ab0a-c14de4b5f488</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ')]</value>
-      <webElementGuid>621fd2ee-2b90-4983-b72c-63f663d220e5</webElementGuid>
+      <value>//*[@form = 'formTambahTendik']</value>
+      <webElementGuid>16d60c31-008d-4b54-903f-744c00a20f36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/masuk/' and (text() = 'Masuk' or . = 'Masuk')]</value>
-      <webElementGuid>47d1f014-c2e1-438f-a061-d97edad6878f</webElementGuid>
+      <value>//button[@type = 'submit' and @form = 'formTambahTendik' and (text() = 'Simpan Data' or . = 'Simpan Data')]</value>
+      <webElementGuid>e4d8a675-5e73-4aa0-9ed1-982785702018</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

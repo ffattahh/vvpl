@@ -1,30 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_No.HP _ Username</name>
+   <name>input_Contoh_ Aula Sekolah</name>
    <tag></tag>
-   <elementGuidId>fd355ea0-686d-450f-9759-2c87d308cfad</elementGuidId>
+   <elementGuidId>2bbf3772-077f-42fa-acd3-7024f26c9f77</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@type = 'text' and @name = 'username' and @placeholder = 'No.HP / Username' and @id = 'id_username']</value>
+         <value>//*[@type = 'text' and @name = 'lokasi' and @id = 'modal-lokasi' and @placeholder = 'Contoh: Aula Sekolah']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#id_username</value>
+         <value>#modal-lokasi</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id = 'id_username']</value>
+         <value>//*[@id = 'modal-lokasi']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorCollection>
-      <entry>
-         <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;No.HP / Username&quot;i]</value>
-      </entry>
-   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -33,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>febc7450-71b1-4dbd-8796-3acc06ab689b</webElementGuid>
+      <webElementGuid>56d16754-06f8-4077-af9d-6a6988a95ede</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,78 +35,70 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>ae226ccc-137a-44ca-b9f0-3708b0f9a4dd</webElementGuid>
+      <webElementGuid>d1e2508b-10be-44cb-a2a7-a2855c5dc745</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>573ced6d-7530-4bfe-b12b-d15fc1a8b08a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>8078f28b-cf79-4ce2-a9d7-5c3b4f448ce8</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>No.HP / Username</value>
-      <webElementGuid>d4e867a8-ad96-410a-8929-39c155dfabd4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>maxlength</name>
-      <type>Main</type>
-      <value>50</value>
-      <webElementGuid>990c51fc-25b0-4659-8751-2a8c15488412</webElementGuid>
+      <value>lokasi</value>
+      <webElementGuid>15781100-fd27-443c-b9a8-5ca410760e0f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>id_username</value>
-      <webElementGuid>00e2bd5c-2404-43a4-a929-dd4c347782fa</webElementGuid>
+      <value>modal-lokasi</value>
+      <webElementGuid>b38b6935-fffe-4282-a4b7-d39c98f66cea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full px-4 py-2.5 bg-slate-50 border border-slate-200 rounded-xl text-sm focus:ring-2 focus:ring-[#00A74D]/20 focus:border-[#00A74D] outline-none transition-all</value>
+      <webElementGuid>238ba67a-c1d5-49f6-8280-8b128ed0aea0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Contoh: Aula Sekolah</value>
+      <webElementGuid>0d3d6f27-b665-4f9c-a137-9fa15873bfa7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-a57812215e19a1eb1aff0815b4401c5c</value>
-      <webElementGuid>0b3a898e-cc25-421b-8486-84ef035aa05b</webElementGuid>
+      <value>md5.v1-df0727e862bbe253dde8f10fb4ae07af</value>
+      <webElementGuid>24e50114-a1af-4708-9742-056c2183de92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id = 'id_username']</value>
-      <webElementGuid>a69b4677-2faa-4672-b542-aebb5490a446</webElementGuid>
+      <value>//*[@id = 'modal-lokasi']</value>
+      <webElementGuid>ceddab73-c6f6-45d7-8038-c6b19d4aba38</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@id = 'id_username']</value>
-      <webElementGuid>a3cd57a2-fe75-4162-b1b7-87e85681b1ea</webElementGuid>
+      <value>//*[@id = 'modal-lokasi']</value>
+      <webElementGuid>40365404-4085-421d-92d7-1a78a8f7ab6f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'username' and @placeholder = 'No.HP / Username' and @id = 'id_username']</value>
-      <webElementGuid>52168223-51dd-4305-b92e-2721a282162d</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'lokasi' and @id = 'modal-lokasi' and @placeholder = 'Contoh: Aula Sekolah']</value>
+      <webElementGuid>3a3c5ed2-48e7-4b30-b357-414135d5f3fb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

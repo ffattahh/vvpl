@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Masuk</name>
+   <name>input_modal-tanggal</name>
    <tag></tag>
-   <elementGuidId>6981ce29-cb65-4c1f-9f81-a760a25c6681</elementGuidId>
+   <elementGuidId>12c4c094-aa20-49a7-a4d8-acca30bf00b9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@href = '/masuk/' and (text() = 'Masuk' or . = 'Masuk')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
-         <value>.rounded-lg</value>
+         <value>#modal-tanggal</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ')]</value>
+         <value>//*[@id = 'modal-tanggal']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -26,63 +22,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>8eab33b9-4952-463a-84e5-24bbbe51de92</webElementGuid>
+      <value>input</value>
+      <webElementGuid>07f04af5-382c-425c-9def-213938969348</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>type</name>
       <type>Main</type>
-      <value>/masuk/</value>
-      <webElementGuid>14b4376f-af8e-49d8-94d3-27cacaf566dd</webElementGuid>
+      <value>date</value>
+      <webElementGuid>0417c593-de09-4845-8825-9d37f03139d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>tanggal</value>
+      <webElementGuid>e2ec5cca-cd9c-4436-b732-efd3fc38b1aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>modal-tanggal</value>
+      <webElementGuid>4b83b430-6752-4cd8-9c70-4e13ab9d37f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>px-5 py-2 text-[13px] font-bold text-[#00A74D] border border-[#00A74D]/20 rounded-lg hover:bg-[#E6F6ED] transition-all</value>
-      <webElementGuid>71ae410c-81d9-4c5d-a4ae-d00a491435b8</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Masuk</value>
-      <webElementGuid>f6909d26-8976-4fde-aa71-0e2bed258106</webElementGuid>
+      <value>w-full px-4 py-2.5 bg-slate-50 border border-slate-200 rounded-xl text-sm focus:ring-2 focus:ring-[#00A74D]/20 focus:border-[#00A74D] outline-none transition-all</value>
+      <webElementGuid>d986e6dc-a67e-4efc-91ae-5c3ceb8e93b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-9c5bf47f5b36736ce834af5d8179eb31</value>
-      <webElementGuid>61ba54a2-ca45-4033-a27b-83b1b712812a</webElementGuid>
+      <value>md5.v1-3ad00bcaca636e117f144a247168414e</value>
+      <webElementGuid>4dbf320d-a159-4a99-a2b2-668f74b0079d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ')]</value>
-      <webElementGuid>fbf25206-da18-4ddc-b25b-0feece9f8645</webElementGuid>
+      <value>//*[@id = 'modal-tanggal']</value>
+      <webElementGuid>0a81acb9-94c2-421e-9978-20573ef97558</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ')]</value>
-      <webElementGuid>621fd2ee-2b90-4983-b72c-63f663d220e5</webElementGuid>
+      <value>//*[@id = 'modal-tanggal']</value>
+      <webElementGuid>2b4bf43c-aba8-4ce9-81d0-1525c85c2965</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/masuk/' and (text() = 'Masuk' or . = 'Masuk')]</value>
-      <webElementGuid>47d1f014-c2e1-438f-a061-d97edad6878f</webElementGuid>
+      <value>//input[@type = 'date' and @name = 'tanggal' and @id = 'modal-tanggal']</value>
+      <webElementGuid>c815c00a-cf12-4a62-a128-1d4d7bf48887</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

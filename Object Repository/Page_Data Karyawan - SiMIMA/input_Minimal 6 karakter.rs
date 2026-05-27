@@ -1,30 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Kata Sandi</name>
+   <name>input_Minimal 6 karakter</name>
    <tag></tag>
-   <elementGuidId>ba3b7c32-8bac-4161-9d0a-c9dba1aaface</elementGuidId>
+   <elementGuidId>f6a24cb4-f6b4-41aa-8af7-293c9ad2c457</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@type = 'password' and @name = 'password' and @placeholder = 'Kata Sandi' and @id = 'id_password']</value>
+         <value>//*[@type = 'password' and @name = 'password' and @placeholder = 'Minimal 6 karakter']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#id_password</value>
+         <value>[name=&quot;password&quot;][type=&quot;password&quot;][required=&quot;&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id = 'id_password']</value>
+         <value>//*[(@name = 'password') and (@type = 'password') and (@required = '')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorCollection>
-      <entry>
-         <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Kata Sandi&quot;i]</value>
-      </entry>
-   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -33,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>00e6b2cc-c4d5-4118-ace0-85cf0bc4e2b5</webElementGuid>
+      <webElementGuid>f0d8bece-2db4-4f90-9082-f4641048b495</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +35,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>ebc90614-243f-4cf6-9826-3883c068e646</webElementGuid>
+      <webElementGuid>6f153179-4b86-42e7-aa49-951bd9267783</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,62 +43,54 @@
       <name>name</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>ee4f17ea-c2de-4b45-92f5-2cf0530238e4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>cf0fb3b1-7aa3-4736-970a-84ed2dffa77e</webElementGuid>
+      <webElementGuid>d08c8d50-95db-49da-9d43-36722af3192d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Kata Sandi</value>
-      <webElementGuid>093ea375-aab0-4089-84a2-ae5bd613c752</webElementGuid>
+      <value>Minimal 6 karakter</value>
+      <webElementGuid>9cdc5386-fc1f-4999-bf1c-d265c23ead57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>class</name>
       <type>Main</type>
-      <value>id_password</value>
-      <webElementGuid>c52c7c4a-a71d-4f43-be2c-e1ed2c4dae05</webElementGuid>
+      <value>kry-compact-input w-full px-3.5 py-2.5 border border-gray-300 rounded-lg text-sm focus:outline-none focus:border-[#00A74D] transition-colors</value>
+      <webElementGuid>f699246b-1b4a-4cc1-85b1-fc9b9d2fd296</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-99ec08782f4081a045e416d2aed92c3b</value>
-      <webElementGuid>db3b7358-ba69-42fe-b89f-0f930e8b0e4f</webElementGuid>
+      <value>md5.v1-c4315a8f433fea061882c175c27e572b</value>
+      <webElementGuid>c6e75f06-0b02-4d59-81d7-73b3b812677e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id = 'id_password']</value>
-      <webElementGuid>5ded0716-3f2c-4ec6-bd01-fd880d55d2b0</webElementGuid>
+      <value>//*[(@name = 'password') and (@type = 'password') and (@required = '')]</value>
+      <webElementGuid>5c75b855-ddd6-4ba6-8fd0-3f8e73af613c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@id = 'id_password']</value>
-      <webElementGuid>7c3516cd-45cf-4a90-983a-28b3a289859c</webElementGuid>
+      <value>//*[(@name = 'password') and (@type = 'password') and (@required = '')]</value>
+      <webElementGuid>5fb8ec1e-8bce-4096-b359-5b07f42d5c98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @name = 'password' and @placeholder = 'Kata Sandi' and @id = 'id_password']</value>
-      <webElementGuid>b4bc473e-c7c8-4c11-a93a-07f3b01ab41e</webElementGuid>
+      <value>//input[@type = 'password' and @name = 'password' and @placeholder = 'Minimal 6 karakter']</value>
+      <webElementGuid>7f6b0435-d5a6-4d64-ab90-7cdc2baa9576</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

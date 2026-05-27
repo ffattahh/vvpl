@@ -1,30 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Masuk Sekarang</name>
+   <name>input_emailsekolah.ac.id</name>
    <tag></tag>
-   <elementGuidId>1dc852aa-3b43-4d3e-b963-31dbd34b1d8d</elementGuidId>
+   <elementGuidId>2236fa23-73fb-41db-ae89-3c3419a393d1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@type = 'submit' and (text() = 'Masuk Sekarang' or . = 'Masuk Sekarang')]</value>
+         <value>//*[@type = 'email' and @name = 'email' and @placeholder = 'email@sekolah.ac.id']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>.btn-login</value>
+         <value>[name=&quot;email&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-login ')]</value>
+         <value>//*[@name = 'email']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorCollection>
-      <entry>
-         <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Masuk Sekarang&quot;i]</value>
-      </entry>
-   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -32,63 +26,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>320e56b4-d509-4cd8-95f8-a7a63d6bdc09</webElementGuid>
+      <value>input</value>
+      <webElementGuid>ef1d0e7a-9627-438e-8f12-900f456c5d52</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>56e55a8e-b831-4d63-b72b-4ae9bd2c0b4a</webElementGuid>
+      <value>email</value>
+      <webElementGuid>099711d2-5853-434f-86a1-ce0d2e7b1b26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>email</value>
+      <webElementGuid>555da034-0e65-4d4e-8cfb-478fab4abfb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>email@sekolah.ac.id</value>
+      <webElementGuid>1769f2e7-079f-4c4b-bd89-17a46f647276</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn-login</value>
-      <webElementGuid>76eae8b3-baa6-42ce-9471-53699ffda139</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Masuk Sekarang</value>
-      <webElementGuid>8eb020ce-fbf6-4ed5-9676-cf6c8004a485</webElementGuid>
+      <value>compact-control w-full px-3.5 py-2.5 border border-gray-300 rounded-lg text-sm text-gray-700 placeholder-gray-400 focus:outline-none focus:border-[#00A74D] transition-colors</value>
+      <webElementGuid>b19d2d1d-40ab-4ae8-a8f1-361f96be9d88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-17426622019fb48d4e9d8381918d3b46</value>
-      <webElementGuid>2b0ace21-29ff-4968-aad9-eb21c38c4a9b</webElementGuid>
+      <value>md5.v1-8ff323be03ffe3004334bd041dab0422</value>
+      <webElementGuid>72b9dfa2-9dd6-482a-bc0e-2ac678b566ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-login ')]</value>
-      <webElementGuid>fbe28ba5-2ee9-430d-b844-79c790231340</webElementGuid>
+      <value>//*[@name = 'email']</value>
+      <webElementGuid>8fc59fa0-2e00-46d6-8d69-b19cde50e75f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-login ')]</value>
-      <webElementGuid>fd263a1a-2499-4977-9e7a-5c8c2aba82ab</webElementGuid>
+      <value>//*[@name = 'email']</value>
+      <webElementGuid>447a2ce0-7e12-4a65-85aa-64a32d59bc0d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'Masuk Sekarang' or . = 'Masuk Sekarang')]</value>
-      <webElementGuid>93a6be1e-853b-4264-8ff0-71b24b6fe1d3</webElementGuid>
+      <value>//input[@type = 'email' and @name = 'email' and @placeholder = 'email@sekolah.ac.id']</value>
+      <webElementGuid>32e2ad13-22a3-468d-9814-22bddf01bd94</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

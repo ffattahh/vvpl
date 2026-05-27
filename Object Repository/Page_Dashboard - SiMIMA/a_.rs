@@ -7,21 +7,21 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@href = '/pembelajaran/kurikulum/' and (text() = '
+         <value>//*[@href = '/kehadiran/' and (text() = '
                             •
-                            Pelajaran
+                            Absensi
                         ' or . = '
                             •
-                            Pelajaran
+                            Absensi
                         ')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>[href=&quot;\/pembelajaran\/kurikulum\/&quot;]</value>
+         <value>[href=&quot;\/kehadiran\/&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@href = '/pembelajaran/kurikulum/']</value>
+         <value>//*[@href = '/kehadiran/']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -33,15 +33,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>0cadc9ab-ce19-4c87-a756-617905a1fa51</webElementGuid>
+      <webElementGuid>94741e75-eb28-475d-9d63-1fbbcd798003</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/pembelajaran/kurikulum/</value>
-      <webElementGuid>dba579a5-f281-43f0-a200-5ee2905d516e</webElementGuid>
+      <value>/kehadiran/</value>
+      <webElementGuid>46f390c2-18cb-4c53-a8a7-82bae0bbe73e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link sub-link relative pl-6 pr-3 py-2 text-[#64748b] no-underline rounded-[10px] font-medium text-[13px] hover:bg-[#f8fafc] hover:text-[#0f172a] </value>
-      <webElementGuid>208e06a4-0079-4b0e-a039-278a80e92631</webElementGuid>
+      <webElementGuid>e833d1e5-203b-4a9b-bdc9-ab27cdc0ed0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,26 +58,114 @@
       <type>Main</type>
       <value>
                             •
-                            Pelajaran
+                            Absensi
                         </value>
-      <webElementGuid>fd992f3d-e041-4c06-8e60-f9cd5fbe8abc</webElementGuid>
+      <webElementGuid>3de884a4-32d7-42f3-92e5-56bb772be91a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-866fc43d8ebceadade7caac34536de28</value>
-      <webElementGuid>d62f2c0a-703e-42f0-bff0-e9a3f8d77ce6</webElementGuid>
+      <value>md5.v1-cd5023a9d0b8086cdd215e37414bf241</value>
+      <webElementGuid>ab7d804a-8052-4934-8ca5-a5cbef35327b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@href = '/pembelajaran/kurikulum/']</value>
-      <webElementGuid>a7bfa02a-43b4-4e2a-8323-06f04e462f2b</webElementGuid>
+      <value>//*[@href = '/kehadiran/']</value>
+      <webElementGuid>f728a85f-bb69-4605-ab0c-9aa49e9a925f</webElementGuid>
    </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@href = '/kehadiran/']</value>
+      <webElementGuid>a9ad7a7e-60a6-41ca-853b-0ae62fe253fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/kehadiran/' and (text() = '
+                            •
+                            Absensi
+                        ' or . = '
+                            •
+                            Absensi
+                        ')]</value>
+      <webElementGuid>cb950d31-0654-48cb-b23d-bee30ad0781a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-link ') and (@href = '/pembelajaran/kegiatan/')]</value>
+      <webElementGuid>c8feaa9a-d75d-4642-bbd2-7f3bbbd7411f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/pembelajaran/kegiatan/' and (text() = '
+                            •
+                            Kalender Akademik
+                        ' or . = '
+                            •
+                            Kalender Akademik
+                        ')]</value>
+      <webElementGuid>0d56763f-de3d-47bb-850e-92472064068c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@href = '/anggota/staf/']</value>
+      <webElementGuid>e254b1ce-8f26-4e36-aba1-f7e149d6ae12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/anggota/staf/' and (text() = '
+                            •
+                            Tenaga Kependidikan
+                        ' or . = '
+                            •
+                            Tenaga Kependidikan
+                        ')]</value>
+      <webElementGuid>2502df36-4a5f-48bf-a947-3789105b8fb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@href = '/anggota/tenaga-pengajar/']</value>
+      <webElementGuid>da6c17ee-4b4e-43f5-bf0b-ef98d8e370d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/anggota/tenaga-pengajar/' and (text() = '
+                            •
+                            Guru
+                        ' or . = '
+                            •
+                            Guru
+                        ')]</value>
+      <webElementGuid>9c1babcc-f72f-4ef1-97c0-25de8a14ead9</webElementGuid>
+   </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>

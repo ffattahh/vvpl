@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Contoh_ Budi Santoso, S.Pd</name>
+   <tag></tag>
+   <elementGuidId>ade66a3e-1221-4be0-8199-1187e7506b43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @name = 'nama_lengkap' and @id = 'edit_nama_lengkap' and @placeholder = 'Contoh: Budi Santoso, S.Pd']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#edit_nama_lengkap</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'edit_nama_lengkap']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>405a7cc0-e362-46f9-9f9b-1c30d8651086</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>3cf58b23-6a7d-4a0e-8643-11623cec67f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>nama_lengkap</value>
+      <webElementGuid>e305a822-bd6e-43ea-841f-9399c5b3c112</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Contoh: Budi Santoso, S.Pd</value>
+      <webElementGuid>fab4ad01-0cd5-4355-89e9-a93258984dd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>compact-control w-full px-3.5 py-2.5 border border-gray-300 rounded-lg text-sm text-gray-700 placeholder-gray-400 focus:outline-none focus:border-[#00A74D] transition-colors</value>
+      <webElementGuid>1cb3abbf-c53c-4cdd-a772-39e773e9f0da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-a3ee4fd37b263dfc12f8656801eca0ff</value>
+      <webElementGuid>720e6af1-0bef-4e10-8c0e-a4c43896e634</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'edit_nama_lengkap']</value>
+      <webElementGuid>2e5a399e-70bf-45a6-9255-45e64e3ec62d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>edit_nama_lengkap</value>
+      <webElementGuid>c73a0f36-d24d-4380-9100-fe410b169b9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'edit_nama_lengkap']</value>
+      <webElementGuid>20c6d475-f299-4e61-9610-eddfd0038d03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'nama_lengkap' and @id = 'edit_nama_lengkap' and @placeholder = 'Contoh: Budi Santoso, S.Pd']</value>
+      <webElementGuid>306dbb69-6087-4390-b447-3e3d5e4c7420</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'formTambahGuru']//*[@name = 'nama_lengkap']</value>
+      <webElementGuid>cdc1244e-4f0d-4a26-93ca-c308e7c7b9ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'nama_lengkap' and @placeholder = 'Contoh: Budi Santoso, S.Pd']</value>
+      <webElementGuid>e8d0eef9-0ea3-4906-ab9c-85591fb2ee75</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

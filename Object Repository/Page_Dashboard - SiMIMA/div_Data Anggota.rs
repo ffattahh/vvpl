@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Akademik</name>
+   <name>div_Data Anggota</name>
    <tag></tag>
-   <elementGuidId>4255da8f-c61a-4cae-81db-c2e9160e7816</elementGuidId>
+   <elementGuidId>b82abb80-f6c4-444a-838a-4072ebf892cf</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
          <value>//*[(text() = '
                         
                             
-                            Akademik
+                            Data Anggota
                         
                         
                     ' or . = '
                         
                             
-                            Akademik
+                            Data Anggota
                         
                         
                     ')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div:nth-child(2) .nav-item .nav-group-header</value>
+         <value>div:nth-child(3) .nav-group-header</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[(name() = 'div') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-item ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-group-header ')]</value>
+         <value>//*[(name() = 'div') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-group-header ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -39,7 +39,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>7404f2ce-197e-49d4-b0c5-6bad54c431aa</webElementGuid>
+      <webElementGuid>52d1e28a-5db5-4d11-923f-a4983861e839</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-group-header flex items-center justify-between gap-3 px-3.5 py-2.5 text-[#6B7280] rounded-[10px] font-semibold cursor-pointer select-none hover:bg-[#E6F6ED] hover:text-[#0f172a]</value>
-      <webElementGuid>6c8425bd-cf68-42b0-9b8a-2e839cdfc810</webElementGuid>
+      <webElementGuid>86230489-a8be-4425-b9ab-8169ca931976</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,35 +57,35 @@
       <value>
                         
                             
-                            Akademik
+                            Data Anggota
                         
                         
                     </value>
-      <webElementGuid>f314ae99-3558-4df7-a36f-baa54f5789a3</webElementGuid>
+      <webElementGuid>4e1c2ebc-bf6e-4870-abf7-de53e3b841fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-0bb3eb0fc2392a5dd49e33cf59355a5b</value>
-      <webElementGuid>65bd02ca-3ac2-4f7f-93a7-a24ac63f2c4d</webElementGuid>
+      <value>md5.v1-f9413f206b1fdbde922f5df1ea3a895e</value>
+      <webElementGuid>c764e8da-99fb-439c-a08f-d711178052c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[(name() = 'div') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-item ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-group-header ')]</value>
-      <webElementGuid>36937932-d30c-4582-8ddc-982b03d930c0</webElementGuid>
+      <value>//*[(name() = 'div') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-group-header ')]</value>
+      <webElementGuid>2083be51-e2da-4fe3-807d-c467a7a7c3f0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[(name() = 'div') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-item ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-group-header ')]</value>
-      <webElementGuid>2a33b009-4128-409b-98a1-fae93733079e</webElementGuid>
+      <value>//*[(name() = 'div') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-group-header ')]</value>
+      <webElementGuid>56685491-d02f-46a8-a34d-81977d5bb609</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,16 +95,16 @@
       <value>//div[(text() = '
                         
                             
-                            Akademik
+                            Data Anggota
                         
                         
                     ' or . = '
                         
                             
-                            Akademik
+                            Data Anggota
                         
                         
                     ')]</value>
-      <webElementGuid>121f3c65-1b55-4ec4-a41e-be7c3b83623e</webElementGuid>
+      <webElementGuid>281a8bdb-9739-4b91-94c8-7c5db944d796</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

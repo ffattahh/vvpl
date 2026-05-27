@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Masuk</name>
+   <name>select_status</name>
    <tag></tag>
-   <elementGuidId>6981ce29-cb65-4c1f-9f81-a760a25c6681</elementGuidId>
+   <elementGuidId>5dbd134e-40b2-4d11-adcf-1ba9f8594a3d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@href = '/masuk/' and (text() = 'Masuk' or . = 'Masuk')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
-         <value>.rounded-lg</value>
+         <value>[name=&quot;status&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ')]</value>
+         <value>//*[@name = 'status']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -26,63 +22,75 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>8eab33b9-4952-463a-84e5-24bbbe51de92</webElementGuid>
+      <value>select</value>
+      <webElementGuid>93881cf5-dbaf-4f71-b9ef-705ff9958c5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>name</name>
       <type>Main</type>
-      <value>/masuk/</value>
-      <webElementGuid>14b4376f-af8e-49d8-94d3-27cacaf566dd</webElementGuid>
+      <value>status</value>
+      <webElementGuid>ea93722f-4dc0-4613-b094-daf4ee1140d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>px-5 py-2 text-[13px] font-bold text-[#00A74D] border border-[#00A74D]/20 rounded-lg hover:bg-[#E6F6ED] transition-all</value>
-      <webElementGuid>71ae410c-81d9-4c5d-a4ae-d00a491435b8</webElementGuid>
+      <value>compact-control w-full px-3 py-2 border border-slate-300 rounded-lg text-sm text-gray-600 focus:outline-none bg-white appearance-none pr-9</value>
+      <webElementGuid>990ffbd5-b3d4-4f3b-8e9d-04a4f4b345ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Masuk</value>
-      <webElementGuid>f6909d26-8976-4fde-aa71-0e2bed258106</webElementGuid>
+      <value>
+              Semua status
+              Aktif
+              Nonaktif
+            </value>
+      <webElementGuid>7588efdd-08b9-4ff0-9b5d-84579633ef21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-9c5bf47f5b36736ce834af5d8179eb31</value>
-      <webElementGuid>61ba54a2-ca45-4033-a27b-83b1b712812a</webElementGuid>
+      <value>md5.v1-a24b3d9cf1922bf80e11d57a029cb2aa</value>
+      <webElementGuid>c898a39e-f968-44f7-a3bc-83cb744b8056</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ')]</value>
-      <webElementGuid>fbf25206-da18-4ddc-b25b-0feece9f8645</webElementGuid>
+      <value>//*[@name = 'status']</value>
+      <webElementGuid>598b5a96-40cf-4a69-944e-8dabaf95a30f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ')]</value>
-      <webElementGuid>621fd2ee-2b90-4983-b72c-63f663d220e5</webElementGuid>
+      <value>//*[@name = 'status']</value>
+      <webElementGuid>1c8e52c9-3db6-4407-9c57-dbaf7528be71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/masuk/' and (text() = 'Masuk' or . = 'Masuk')]</value>
-      <webElementGuid>47d1f014-c2e1-438f-a061-d97edad6878f</webElementGuid>
+      <value>//select[@name = 'status' and (text() = '
+              Semua status
+              Aktif
+              Nonaktif
+            ' or . = '
+              Semua status
+              Aktif
+              Nonaktif
+            ')]</value>
+      <webElementGuid>fbae5576-71f6-4458-97e7-bf10b6022ca1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

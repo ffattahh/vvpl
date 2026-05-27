@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_19802xxxx</name>
+   <tag></tag>
+   <elementGuidId>e9146db7-18c6-435c-9f83-5a6bd34f7be7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @name = 'nip' and @id = 'edit_nip' and @placeholder = '19802xxxx']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#edit_nip</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'edit_nip']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>db0071a5-e418-41fb-876a-91e1fe956df6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>6fb267bb-3755-4cb2-a09f-7358c51a6b26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>nip</value>
+      <webElementGuid>c8a41150-e341-4ac9-ab8b-0a5bab6dd9cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>19802xxxx</value>
+      <webElementGuid>3d4b5d6d-b599-4b75-8ee5-c97e9a36fec4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>compact-control w-full px-3.5 py-2.5 border border-gray-300 rounded-lg text-sm text-gray-700 placeholder-gray-400 focus:outline-none focus:border-[#00A74D] transition-colors</value>
+      <webElementGuid>235fb25c-6244-4309-9cde-cf56a272dbf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-1102d868a76e9f94512e9fbe79d34c40</value>
+      <webElementGuid>9398c98d-e2b9-4bb3-a4d1-666b63553838</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'edit_nip']</value>
+      <webElementGuid>4075faf8-93cd-4c09-9e27-7947098fdf15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>edit_nip</value>
+      <webElementGuid>12e4a84d-8e3e-4c82-9dfe-5daaefbbc265</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'edit_nip']</value>
+      <webElementGuid>018da2eb-5e88-4861-9b1c-4256ad49fc56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'nip' and @id = 'edit_nip' and @placeholder = '19802xxxx']</value>
+      <webElementGuid>bcb3a0d1-333f-4e2b-995b-ccc88fc7c0a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'formTambahGuru']//*[@name = 'nip']</value>
+      <webElementGuid>3305ce0a-6e3f-4f78-a7bf-e9b7e4c299fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'nip' and @placeholder = '19802xxxx']</value>
+      <webElementGuid>f73fee92-5e55-4d2e-9b5a-553b3bf62433</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

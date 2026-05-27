@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Masuk</name>
+   <name>button_Simpan Perubahan</name>
    <tag></tag>
-   <elementGuidId>6981ce29-cb65-4c1f-9f81-a760a25c6681</elementGuidId>
+   <elementGuidId>7b7523ee-4a8a-4a26-8c6e-4e8c404ce120</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@href = '/masuk/' and (text() = 'Masuk' or . = 'Masuk')]</value>
+         <value>//*[@type = 'submit' and @form = 'formEditGuru' and (text() = 'Simpan Perubahan' or . = 'Simpan Perubahan')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>.rounded-lg</value>
+         <value>[form=&quot;formEditGuru&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ')]</value>
+         <value>//*[@form = 'formEditGuru']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -26,63 +26,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>8eab33b9-4952-463a-84e5-24bbbe51de92</webElementGuid>
+      <value>button</value>
+      <webElementGuid>a34bc273-4422-441e-b6d6-78abbfb63c63</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>type</name>
       <type>Main</type>
-      <value>/masuk/</value>
-      <webElementGuid>14b4376f-af8e-49d8-94d3-27cacaf566dd</webElementGuid>
+      <value>submit</value>
+      <webElementGuid>03258844-38e0-4a25-aa5a-d9ddb9b84105</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>form</name>
+      <type>Main</type>
+      <value>formEditGuru</value>
+      <webElementGuid>cbed0da6-f9cc-4dc4-b640-a9cc4956b479</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>px-5 py-2 text-[13px] font-bold text-[#00A74D] border border-[#00A74D]/20 rounded-lg hover:bg-[#E6F6ED] transition-all</value>
-      <webElementGuid>71ae410c-81d9-4c5d-a4ae-d00a491435b8</webElementGuid>
+      <value>px-4 py-2 text-sm font-semibold text-white bg-[#00A74D] border-none rounded-lg hover:bg-[#009944] transition-colors</value>
+      <webElementGuid>e24ced85-807d-4a4f-97c9-0c75a7076e5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Masuk</value>
-      <webElementGuid>f6909d26-8976-4fde-aa71-0e2bed258106</webElementGuid>
+      <value>Simpan Perubahan</value>
+      <webElementGuid>d4b12421-a6b9-4b5d-a493-ff85172f3d42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-9c5bf47f5b36736ce834af5d8179eb31</value>
-      <webElementGuid>61ba54a2-ca45-4033-a27b-83b1b712812a</webElementGuid>
+      <value>md5.v1-5672502b41194d83f227f662f7953b05</value>
+      <webElementGuid>39896634-77d1-4eb9-a54a-3c3d505011ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ')]</value>
-      <webElementGuid>fbf25206-da18-4ddc-b25b-0feece9f8645</webElementGuid>
+      <value>//*[@form = 'formEditGuru']</value>
+      <webElementGuid>762b21df-b73f-4c85-8dcb-57a0b59b5f93</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ')]</value>
-      <webElementGuid>621fd2ee-2b90-4983-b72c-63f663d220e5</webElementGuid>
+      <value>//*[@form = 'formEditGuru']</value>
+      <webElementGuid>6da72169-e183-4056-9501-db8f6a7d874f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/masuk/' and (text() = 'Masuk' or . = 'Masuk')]</value>
-      <webElementGuid>47d1f014-c2e1-438f-a061-d97edad6878f</webElementGuid>
+      <value>//button[@type = 'submit' and @form = 'formEditGuru' and (text() = 'Simpan Perubahan' or . = 'Simpan Perubahan')]</value>
+      <webElementGuid>3912840d-27f7-4ee4-a88e-e7e47b4c3100</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

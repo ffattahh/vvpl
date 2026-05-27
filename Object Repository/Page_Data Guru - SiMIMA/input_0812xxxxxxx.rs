@@ -1,30 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Kata Sandi</name>
+   <name>input_0812xxxxxxx</name>
    <tag></tag>
-   <elementGuidId>ba3b7c32-8bac-4161-9d0a-c9dba1aaface</elementGuidId>
+   <elementGuidId>b6dea935-84ea-4fc6-bf6c-bbcdee612a72</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@type = 'password' and @name = 'password' and @placeholder = 'Kata Sandi' and @id = 'id_password']</value>
+         <value>//*[@type = 'text' and @name = 'no_telepon' and @placeholder = '0812xxxxxxx']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#id_password</value>
+         <value>#formTambahGuru [name=&quot;no_telepon&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id = 'id_password']</value>
+         <value>//*[@id = 'formTambahGuru']//*[@name = 'no_telepon']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorCollection>
-      <entry>
-         <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Kata Sandi&quot;i]</value>
-      </entry>
-   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -33,78 +27,70 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>00e6b2cc-c4d5-4118-ace0-85cf0bc4e2b5</webElementGuid>
+      <webElementGuid>1daf6cbd-ca47-4d48-85d9-b12c6cb2c966</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>ebc90614-243f-4cf6-9826-3883c068e646</webElementGuid>
+      <value>text</value>
+      <webElementGuid>4081bab5-4db4-4b3c-9009-e8d8f3560872</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>ee4f17ea-c2de-4b45-92f5-2cf0530238e4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>cf0fb3b1-7aa3-4736-970a-84ed2dffa77e</webElementGuid>
+      <value>no_telepon</value>
+      <webElementGuid>29678b34-852f-465d-a6eb-a52b18a433c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Kata Sandi</value>
-      <webElementGuid>093ea375-aab0-4089-84a2-ae5bd613c752</webElementGuid>
+      <value>0812xxxxxxx</value>
+      <webElementGuid>45530235-e62b-4f27-b118-d1f764615af7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>class</name>
       <type>Main</type>
-      <value>id_password</value>
-      <webElementGuid>c52c7c4a-a71d-4f43-be2c-e1ed2c4dae05</webElementGuid>
+      <value>compact-control w-full px-3.5 py-2.5 border border-gray-300 rounded-lg text-sm text-gray-700 placeholder-gray-400 focus:outline-none focus:border-[#00A74D] transition-colors</value>
+      <webElementGuid>60fa7cab-1fc0-42f6-bcbe-b917476550aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-99ec08782f4081a045e416d2aed92c3b</value>
-      <webElementGuid>db3b7358-ba69-42fe-b89f-0f930e8b0e4f</webElementGuid>
+      <value>md5.v1-4106af86135b6bb5aeb6981e3f4b7d94</value>
+      <webElementGuid>6fc70b52-7c26-4c29-9b6b-643871d1dfc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id = 'id_password']</value>
-      <webElementGuid>5ded0716-3f2c-4ec6-bd01-fd880d55d2b0</webElementGuid>
+      <value>//*[@id = 'formTambahGuru']//*[@name = 'no_telepon']</value>
+      <webElementGuid>2eeb2c28-4ff0-4047-8f84-358f4a5e7bec</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@id = 'id_password']</value>
-      <webElementGuid>7c3516cd-45cf-4a90-983a-28b3a289859c</webElementGuid>
+      <value>//*[@id = 'formTambahGuru']//*[@name = 'no_telepon']</value>
+      <webElementGuid>48027827-54dc-4c62-9573-8f7077c4fbf5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @name = 'password' and @placeholder = 'Kata Sandi' and @id = 'id_password']</value>
-      <webElementGuid>b4bc473e-c7c8-4c11-a93a-07f3b01ab41e</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'no_telepon' and @placeholder = '0812xxxxxxx']</value>
+      <webElementGuid>485cf83d-51ca-4c9a-bac7-3dec4ebaee69</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

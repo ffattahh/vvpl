@@ -1,30 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Masuk Sekarang</name>
+   <name>input_emailcontoh.com</name>
    <tag></tag>
-   <elementGuidId>1dc852aa-3b43-4d3e-b963-31dbd34b1d8d</elementGuidId>
+   <elementGuidId>5e8ef6d3-ed41-4b59-9e82-f6f38ffe187b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@type = 'submit' and (text() = 'Masuk Sekarang' or . = 'Masuk Sekarang')]</value>
+         <value>//*[@type = 'email' and @name = 'email' and @placeholder = 'email@contoh.com']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>.btn-login</value>
+         <value>[placeholder=&quot;email\@contoh\.com&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-login ')]</value>
+         <value>//*[@placeholder = 'email@contoh.com']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorCollection>
-      <entry>
-         <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Masuk Sekarang&quot;i]</value>
-      </entry>
-   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -32,63 +26,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>320e56b4-d509-4cd8-95f8-a7a63d6bdc09</webElementGuid>
+      <value>input</value>
+      <webElementGuid>fcc104ad-b4f6-4d2f-97b5-89f43cd0d6ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>56e55a8e-b831-4d63-b72b-4ae9bd2c0b4a</webElementGuid>
+      <value>email</value>
+      <webElementGuid>5ab51dd1-a240-40b8-b717-29eaf0ffe77a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>email</value>
+      <webElementGuid>57230223-3776-423b-a0de-9fb497fbeecd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>email@contoh.com</value>
+      <webElementGuid>36db8ffe-7b01-4a42-90ef-c67bd7d8b506</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn-login</value>
-      <webElementGuid>76eae8b3-baa6-42ce-9471-53699ffda139</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Masuk Sekarang</value>
-      <webElementGuid>8eb020ce-fbf6-4ed5-9676-cf6c8004a485</webElementGuid>
+      <value>kry-compact-input w-full px-3.5 py-2.5 border border-gray-300 rounded-lg text-sm focus:outline-none focus:border-[#00A74D] transition-colors</value>
+      <webElementGuid>24f9c9b1-1f0c-4541-870d-948d8c20a10f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-17426622019fb48d4e9d8381918d3b46</value>
-      <webElementGuid>2b0ace21-29ff-4968-aad9-eb21c38c4a9b</webElementGuid>
+      <value>md5.v1-66ee09c677669e7e694a0e1024e7f8f7</value>
+      <webElementGuid>3f49b455-ac79-4b98-8c3c-bb4c654ff2e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-login ')]</value>
-      <webElementGuid>fbe28ba5-2ee9-430d-b844-79c790231340</webElementGuid>
+      <value>//*[@placeholder = 'email@contoh.com']</value>
+      <webElementGuid>333f671e-8617-47ef-86b0-c5789ca32b70</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-login ')]</value>
-      <webElementGuid>fd263a1a-2499-4977-9e7a-5c8c2aba82ab</webElementGuid>
+      <value>//*[@placeholder = 'email@contoh.com']</value>
+      <webElementGuid>76ed4726-b1aa-4702-a79f-40d5a8efce4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'Masuk Sekarang' or . = 'Masuk Sekarang')]</value>
-      <webElementGuid>93a6be1e-853b-4264-8ff0-71b24b6fe1d3</webElementGuid>
+      <value>//input[@type = 'email' and @name = 'email' and @placeholder = 'email@contoh.com']</value>
+      <webElementGuid>bcef454d-6b24-4e71-b5e5-c1149d2a5eca</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

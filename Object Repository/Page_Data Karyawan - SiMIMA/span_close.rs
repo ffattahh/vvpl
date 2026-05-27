@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_close</name>
+   <tag></tag>
+   <elementGuidId>124d4904-45fb-484b-b265-57737af645cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.inline-flex[onclick=&quot;closeEditModal\(\)&quot;] .material-symbols-outlined</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' inline-flex ') and (@onclick = 'closeEditModal()')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' material-symbols-outlined ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>141ba82d-31f1-4d29-a519-a6b32354ecdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-symbols-outlined</value>
+      <webElementGuid>c1c7b4d8-8531-4207-8997-8dfe48efe9c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>close</value>
+      <webElementGuid>07cb0028-382c-40e8-9f23-44e18d20db6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-a16f6388590c4f5a474b7324e4401405</value>
+      <webElementGuid>c14306db-c125-4b86-b962-57bd96634c94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' inline-flex ') and (@onclick = 'closeEditModal()')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' material-symbols-outlined ')]</value>
+      <webElementGuid>687a5741-843f-4ac8-b95c-ca6b5b6d8e46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' inline-flex ') and (@onclick = 'closeEditModal()')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' material-symbols-outlined ')]</value>
+      <webElementGuid>ac8acf35-e2e3-451f-b3a6-429dce9a5862</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'close' or . = 'close')]</value>
+      <webElementGuid>b5c8508d-8935-4e54-a766-51d08ad9ab94</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

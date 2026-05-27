@@ -1,30 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Kata Sandi</name>
+   <name>textarea_Alamat Lengkap Domisili</name>
    <tag></tag>
-   <elementGuidId>ba3b7c32-8bac-4161-9d0a-c9dba1aaface</elementGuidId>
+   <elementGuidId>085c331b-2162-4729-93ed-4bf8a4f833e8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@type = 'password' and @name = 'password' and @placeholder = 'Kata Sandi' and @id = 'id_password']</value>
+         <value>//*[@name = 'alamat' and @placeholder = 'Alamat Lengkap Domisili.....']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#id_password</value>
+         <value>[placeholder=&quot;Alamat\ Lengkap\ Domisili\.\.\.\.\.&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id = 'id_password']</value>
+         <value>//*[@placeholder = 'Alamat Lengkap Domisili.....']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorCollection>
-      <entry>
-         <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Kata Sandi&quot;i]</value>
-      </entry>
-   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -32,79 +26,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>00e6b2cc-c4d5-4118-ace0-85cf0bc4e2b5</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>ebc90614-243f-4cf6-9826-3883c068e646</webElementGuid>
+      <value>textarea</value>
+      <webElementGuid>742c631e-cca7-42e6-895f-9f449381e3c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>ee4f17ea-c2de-4b45-92f5-2cf0530238e4</webElementGuid>
+      <value>alamat</value>
+      <webElementGuid>ba219977-6b26-474b-b066-8a73e8c7cf3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>rows</name>
       <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>cf0fb3b1-7aa3-4736-970a-84ed2dffa77e</webElementGuid>
+      <value>2</value>
+      <webElementGuid>f3813f91-5aff-45a0-a391-af20bf4f59ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Kata Sandi</value>
-      <webElementGuid>093ea375-aab0-4089-84a2-ae5bd613c752</webElementGuid>
+      <value>Alamat Lengkap Domisili.....</value>
+      <webElementGuid>c3f9ad54-65e4-4f28-b629-ab51752011a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>class</name>
       <type>Main</type>
-      <value>id_password</value>
-      <webElementGuid>c52c7c4a-a71d-4f43-be2c-e1ed2c4dae05</webElementGuid>
+      <value>w-full px-3.5 py-2.5 border border-gray-300 rounded-lg text-sm focus:outline-none focus:border-[#00A74D] transition-colors resize-none</value>
+      <webElementGuid>9ebf20c5-b623-4886-835a-9109e44c4f27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-99ec08782f4081a045e416d2aed92c3b</value>
-      <webElementGuid>db3b7358-ba69-42fe-b89f-0f930e8b0e4f</webElementGuid>
+      <value>md5.v1-72eff06c6034dc496151a92a7b46f448</value>
+      <webElementGuid>d715b843-8d5b-4390-9012-8e1ee7216efb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id = 'id_password']</value>
-      <webElementGuid>5ded0716-3f2c-4ec6-bd01-fd880d55d2b0</webElementGuid>
+      <value>//*[@placeholder = 'Alamat Lengkap Domisili.....']</value>
+      <webElementGuid>cd9231e2-8e26-4781-b05d-ed46161db4be</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@id = 'id_password']</value>
-      <webElementGuid>7c3516cd-45cf-4a90-983a-28b3a289859c</webElementGuid>
+      <value>//*[@placeholder = 'Alamat Lengkap Domisili.....']</value>
+      <webElementGuid>3040fbd5-98b3-46fc-9232-dba957a3e38d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @name = 'password' and @placeholder = 'Kata Sandi' and @id = 'id_password']</value>
-      <webElementGuid>b4bc473e-c7c8-4c11-a93a-07f3b01ab41e</webElementGuid>
+      <value>//textarea[@name = 'alamat' and @placeholder = 'Alamat Lengkap Domisili.....']</value>
+      <webElementGuid>9a2b2208-1e26-45ac-b97e-96b26208e412</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

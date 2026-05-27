@@ -1,30 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_No.HP _ Username</name>
+   <name>input_Masukkan username</name>
    <tag></tag>
-   <elementGuidId>fd355ea0-686d-450f-9759-2c87d308cfad</elementGuidId>
+   <elementGuidId>54eb88c1-1c67-40b4-9513-3ca1db58ec2d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@type = 'text' and @name = 'username' and @placeholder = 'No.HP / Username' and @id = 'id_username']</value>
+         <value>//*[@type = 'text' and @name = 'username' and @placeholder = 'Masukkan username']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#id_username</value>
+         <value>[placeholder=&quot;Masukkan\ username&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id = 'id_username']</value>
+         <value>//*[@placeholder = 'Masukkan username']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorCollection>
-      <entry>
-         <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;No.HP / Username&quot;i]</value>
-      </entry>
-   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -33,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>febc7450-71b1-4dbd-8796-3acc06ab689b</webElementGuid>
+      <webElementGuid>83020f33-b4c8-4398-8e19-eeb119a5c44f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +35,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>ae226ccc-137a-44ca-b9f0-3708b0f9a4dd</webElementGuid>
+      <webElementGuid>fc3a6f83-bf8a-48c6-9d99-6e0f1ffe0034</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,70 +43,54 @@
       <name>name</name>
       <type>Main</type>
       <value>username</value>
-      <webElementGuid>573ced6d-7530-4bfe-b12b-d15fc1a8b08a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>8078f28b-cf79-4ce2-a9d7-5c3b4f448ce8</webElementGuid>
+      <webElementGuid>21d6e90e-85d9-49a7-9589-5f921d9b8175</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>No.HP / Username</value>
-      <webElementGuid>d4e867a8-ad96-410a-8929-39c155dfabd4</webElementGuid>
+      <value>Masukkan username</value>
+      <webElementGuid>c79fb9e7-2891-45b4-bd4f-2484c270cdb5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>maxlength</name>
+      <name>class</name>
       <type>Main</type>
-      <value>50</value>
-      <webElementGuid>990c51fc-25b0-4659-8751-2a8c15488412</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>id_username</value>
-      <webElementGuid>00e2bd5c-2404-43a4-a929-dd4c347782fa</webElementGuid>
+      <value>kry-compact-input w-full px-3.5 py-2.5 border border-gray-300 rounded-lg text-sm focus:outline-none focus:border-[#00A74D] transition-colors</value>
+      <webElementGuid>e209abd2-0b11-4e23-923f-91afa6da4273</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-a57812215e19a1eb1aff0815b4401c5c</value>
-      <webElementGuid>0b3a898e-cc25-421b-8486-84ef035aa05b</webElementGuid>
+      <value>md5.v1-9ab59f8b41dd42d27bc0077854af8a91</value>
+      <webElementGuid>bd3ddc91-a3d4-48a6-8524-3b678c14bf77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id = 'id_username']</value>
-      <webElementGuid>a69b4677-2faa-4672-b542-aebb5490a446</webElementGuid>
+      <value>//*[@placeholder = 'Masukkan username']</value>
+      <webElementGuid>4ae1d3f2-6927-425f-846a-24fba946baae</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@id = 'id_username']</value>
-      <webElementGuid>a3cd57a2-fe75-4162-b1b7-87e85681b1ea</webElementGuid>
+      <value>//*[@placeholder = 'Masukkan username']</value>
+      <webElementGuid>12a3afd6-083e-46e9-81f0-5ba7fa0c93ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'username' and @placeholder = 'No.HP / Username' and @id = 'id_username']</value>
-      <webElementGuid>52168223-51dd-4305-b92e-2721a282162d</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'username' and @placeholder = 'Masukkan username']</value>
+      <webElementGuid>bf5779a6-4eab-44e0-8c8d-345cf0c69f38</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

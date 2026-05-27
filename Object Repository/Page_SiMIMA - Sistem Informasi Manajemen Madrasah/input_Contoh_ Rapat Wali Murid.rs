@@ -1,30 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_No.HP _ Username</name>
+   <name>input_Contoh_ Rapat Wali Murid</name>
    <tag></tag>
-   <elementGuidId>fd355ea0-686d-450f-9759-2c87d308cfad</elementGuidId>
+   <elementGuidId>7059ac28-f905-4cb0-bc7c-ca895ad77307</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@type = 'text' and @name = 'username' and @placeholder = 'No.HP / Username' and @id = 'id_username']</value>
+         <value>//*[@type = 'text' and @name = 'judul' and @id = 'modal-judul' and @placeholder = 'Contoh: Rapat Wali Murid']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#id_username</value>
+         <value>#modal-judul</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id = 'id_username']</value>
+         <value>//*[@id = 'modal-judul']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorCollection>
-      <entry>
-         <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;No.HP / Username&quot;i]</value>
-      </entry>
-   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -33,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>febc7450-71b1-4dbd-8796-3acc06ab689b</webElementGuid>
+      <webElementGuid>d8fde313-4581-4499-9c69-63b91b87e8d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,78 +35,70 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>ae226ccc-137a-44ca-b9f0-3708b0f9a4dd</webElementGuid>
+      <webElementGuid>5d05e83c-a985-4bd2-bb02-516ef3a8b2d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>573ced6d-7530-4bfe-b12b-d15fc1a8b08a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>8078f28b-cf79-4ce2-a9d7-5c3b4f448ce8</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>No.HP / Username</value>
-      <webElementGuid>d4e867a8-ad96-410a-8929-39c155dfabd4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>maxlength</name>
-      <type>Main</type>
-      <value>50</value>
-      <webElementGuid>990c51fc-25b0-4659-8751-2a8c15488412</webElementGuid>
+      <value>judul</value>
+      <webElementGuid>3f022978-aad1-4240-83b6-77028efec0f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>id_username</value>
-      <webElementGuid>00e2bd5c-2404-43a4-a929-dd4c347782fa</webElementGuid>
+      <value>modal-judul</value>
+      <webElementGuid>4d271915-c8c0-49df-8d4d-d14f0ef1d898</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full px-4 py-2.5 bg-slate-50 border border-slate-200 rounded-xl text-sm focus:ring-2 focus:ring-[#00A74D]/20 focus:border-[#00A74D] outline-none transition-all</value>
+      <webElementGuid>9684c76c-c09c-4c02-947b-361e00528dca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Contoh: Rapat Wali Murid</value>
+      <webElementGuid>058cb331-0003-4a8a-b9f7-e37fe9e5154c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-a57812215e19a1eb1aff0815b4401c5c</value>
-      <webElementGuid>0b3a898e-cc25-421b-8486-84ef035aa05b</webElementGuid>
+      <value>md5.v1-a3c7358299d25b76c6f258ed3c89c25a</value>
+      <webElementGuid>3d79d819-28c7-466c-b8af-13e6b84803f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id = 'id_username']</value>
-      <webElementGuid>a69b4677-2faa-4672-b542-aebb5490a446</webElementGuid>
+      <value>//*[@id = 'modal-judul']</value>
+      <webElementGuid>4143d39e-0646-4304-9679-b5514dfbc54f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@id = 'id_username']</value>
-      <webElementGuid>a3cd57a2-fe75-4162-b1b7-87e85681b1ea</webElementGuid>
+      <value>//*[@id = 'modal-judul']</value>
+      <webElementGuid>fe7c7dfd-8749-4b02-9a31-1fa3ece46fed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'username' and @placeholder = 'No.HP / Username' and @id = 'id_username']</value>
-      <webElementGuid>52168223-51dd-4305-b92e-2721a282162d</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'judul' and @id = 'modal-judul' and @placeholder = 'Contoh: Rapat Wali Murid']</value>
+      <webElementGuid>3f167916-fe71-4fd8-b8d2-686fc8ad15a1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
