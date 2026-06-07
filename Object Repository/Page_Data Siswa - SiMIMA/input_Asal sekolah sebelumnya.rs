@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Asal sekolah sebelumnya</name>
+   <tag></tag>
+   <elementGuidId>259d891e-94c2-4ad2-b574-489bf0d64b11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#id_asal_sekolah</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'id_asal_sekolah']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>a8ad2e9b-ae53-4aba-b469-9f62448ffe53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>6d3e4406-7e88-4616-a0e6-962efe71b2e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>asal_sekolah</value>
+      <webElementGuid>251e821b-2831-4e59-b539-7b2a9cd36845</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>id_asal_sekolah</value>
+      <webElementGuid>0b87c556-0517-4eac-9e41-13313fe645ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>c06f5e35-33e4-4203-9bf5-e9a4bb7a0783</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Asal sekolah sebelumnya</value>
+      <webElementGuid>a3ea8041-24f1-4e6a-bc1f-03e18309d005</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-74e7a7f5db83cb84262a956467c9f092</value>
+      <webElementGuid>3581be9e-3dfa-42c7-a3a6-f712d3fb1bc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'id_asal_sekolah']</value>
+      <webElementGuid>7991f2df-6603-4fe1-909d-174cbcd17bb2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'id_asal_sekolah']</value>
+      <webElementGuid>df7a85fb-d44c-4df0-9568-00877f8ef872</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'asal_sekolah' and @id = 'id_asal_sekolah' and @placeholder = 'Asal sekolah sebelumnya']</value>
+      <webElementGuid>e40c62fe-aeb3-4ecf-a73b-c19015ab02e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

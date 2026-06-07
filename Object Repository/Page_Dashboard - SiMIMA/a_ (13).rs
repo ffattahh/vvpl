@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ (13)</name>
+   <tag></tag>
+   <elementGuidId>c0460520-1300-4d9d-a0b9-d2caad5ca985</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[href=&quot;\/anggota\/peserta-didik\/&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@href = '/anggota/peserta-didik/']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>241112d4-5f77-4ca9-bee2-d2411b2aa6a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/anggota/peserta-didik/</value>
+      <webElementGuid>749fceb2-0a66-45e2-8f56-5a53b33570cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link sub-link relative pl-6 pr-3 py-2 text-[#64748b] no-underline rounded-[10px] font-medium text-[13px] hover:bg-[#f8fafc] hover:text-[#0f172a] </value>
+      <webElementGuid>5ae29c0d-109a-4f35-b1f9-5bcaf8e6e27d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            •
+                            Siswa
+                        </value>
+      <webElementGuid>bcea79c5-3453-4a68-98cd-568de5a714ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-64f7e707f91d838acc9926febeb72ad8</value>
+      <webElementGuid>a1854ccf-4b09-4aed-a13a-706efd47ecbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@href = '/anggota/peserta-didik/']</value>
+      <webElementGuid>9be09682-a8e5-4673-b489-4e77c2a55f2b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@href = '/anggota/peserta-didik/']</value>
+      <webElementGuid>626a22a5-b893-4e50-8836-2e67377a7abf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/anggota/peserta-didik/' and (text() = '
+                            •
+                            Siswa
+                        ' or . = '
+                            •
+                            Siswa
+                        ')]</value>
+      <webElementGuid>66d1f94c-a1a1-4c38-8183-ebf4451491bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

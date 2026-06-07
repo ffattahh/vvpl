@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Kelola (2)</name>
+   <tag></tag>
+   <elementGuidId>a65f73e4-502e-4681-aa1e-7401a6762a66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.kelas-card:nth-child(1) .rounded-md.inline-flex.transition-colors[type=&quot;button&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' kelas-card ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-md ') and contains(concat(' ', normalize-space(@class), ' '), ' inline-flex ') and contains(concat(' ', normalize-space(@class), ' '), ' transition-colors ') and (@type = 'button')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6231cdfd-92ad-4080-93a7-eeb2c4d49574</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a15db3c6-19d2-43c1-aa30-5e9fb8b1910d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>toggleKelolaMenu('menu-aktif-118')</value>
+      <webElementGuid>31e80d45-c7e5-42d1-a341-8e1268d4a760</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center gap-1 bg-[#E6F6ED] text-[#00A74D] rounded-md font-semibold hover:bg-[#d4f3e3] transition-colors h-6 px-2.5 text-[11px]</value>
+      <webElementGuid>c6405b35-2413-4315-b89a-f825a7c2cf37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    Kelola
+                                    >
+                                </value>
+      <webElementGuid>b9326055-27e7-41d9-b29b-4979eecec54a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-5b87b207404c48fdd942794a2d9cbc46</value>
+      <webElementGuid>85db3853-1a03-48a2-97c7-1dac631b4ede</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' kelas-card ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-md ') and contains(concat(' ', normalize-space(@class), ' '), ' inline-flex ') and contains(concat(' ', normalize-space(@class), ' '), ' transition-colors ') and (@type = 'button')]</value>
+      <webElementGuid>1676263b-f40e-4534-95e8-4b3736007573</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' kelas-card ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-md ') and contains(concat(' ', normalize-space(@class), ' '), ' inline-flex ') and contains(concat(' ', normalize-space(@class), ' '), ' transition-colors ') and (@type = 'button')]</value>
+      <webElementGuid>15a10fb7-c618-4121-b339-bc9c8c60975e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+                                    Kelola
+                                    >
+                                ' or . = '
+                                    Kelola
+                                    >
+                                ')]</value>
+      <webElementGuid>942e8174-d8be-4429-8a3e-b4fe7710f324</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Arsipkan</name>
+   <tag></tag>
+   <elementGuidId>b58ed40c-8f44-43ca-86fa-d328ee7f29bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.kelas-card:nth-child(1) [onclick=&quot;openModalArsipKelasFromTrigger\(this\)&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' kelas-card ') and (position() = 1)]//*[@onclick = 'openModalArsipKelasFromTrigger(this)']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c17a72c0-06d2-4c7b-a07b-2400fdd26959</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1f861bea-0fbd-4cbb-88b1-972a4ddba17d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>openModalArsipKelasFromTrigger(this)</value>
+      <webElementGuid>43f981c0-0867-4da3-a10f-fea28b6a1f0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-kelas-id</name>
+      <type>Main</type>
+      <value>122</value>
+      <webElementGuid>315ffb80-db75-476f-8ea7-c0f5f5cded70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-kelas-label</name>
+      <type>Main</type>
+      <value>Kelas 1A - Kelas 3</value>
+      <webElementGuid>92d8961e-ea1a-4220-bef8-e8fd1a651360</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full text-left px-3 py-2 text-xs text-amber-700 hover:bg-amber-50</value>
+      <webElementGuid>ae2a41eb-d270-429a-9744-20a894a04e08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        Arsipkan
+                                    </value>
+      <webElementGuid>5e059e65-79c3-4cf1-862d-66c67b2b5522</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-08db2457e1151c462767ae45e15075a4</value>
+      <webElementGuid>5ea1f152-75bf-40f8-b6b0-d01a61417ec9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' kelas-card ') and (position() = 1)]//*[@onclick = 'openModalArsipKelasFromTrigger(this)']</value>
+      <webElementGuid>9c8c8fc0-9c34-416e-89e1-0c6145c07cba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' kelas-card ') and (position() = 1)]//*[@onclick = 'openModalArsipKelasFromTrigger(this)']</value>
+      <webElementGuid>22a2af6b-0525-4a79-813b-dcf283c03d25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+                                        Arsipkan
+                                    ' or . = '
+                                        Arsipkan
+                                    ')]</value>
+      <webElementGuid>b27756c9-8cc5-4d64-aef6-64d40b669e4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

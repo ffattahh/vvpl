@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Hapus</name>
+   <tag></tag>
+   <elementGuidId>8c6ce7dc-0001-42d9-83af-0c5616814e87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[onsubmit=&quot;return\ confirm\(\'Hapus\ siswa\ Abyasa\ Gunawan\,\ S\.I\.Kom\?\'\)&quot;] .btn-delete</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@onsubmit = 'return confirm('Hapus siswa Abyasa Gunawan, S.I.Kom?')']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-delete ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8cfb9c12-2640-40cb-8e4a-0e3a4781592d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>03e318b6-80a0-47f6-ad24-5e57c4da2d30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-delete</value>
+      <webElementGuid>36029458-b88a-460d-ba66-db59f2540030</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Hapus</value>
+      <webElementGuid>a2ff85cf-7c49-44cb-9c5d-0975fe2f62f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-11bb321584e085562f7a5f7f63337bce</value>
+      <webElementGuid>66b094f3-5abc-4eab-86a5-079e217a8208</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@onsubmit = 'return confirm('Hapus siswa Abyasa Gunawan, S.I.Kom?')']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-delete ')]</value>
+      <webElementGuid>d81fb832-1a7f-483c-8807-0c68d95fce9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@onsubmit = 'return confirm('Hapus siswa Abyasa Gunawan, S.I.Kom?')']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-delete ')]</value>
+      <webElementGuid>5550b0a9-a10f-4ab5-aa12-e3bc54aaf496</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @title = 'Hapus']</value>
+      <webElementGuid>98c85a16-bdd8-4407-8d6b-634eb90b849b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

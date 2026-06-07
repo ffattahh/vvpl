@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Hapus</name>
+   <tag></tag>
+   <elementGuidId>41b56953-41d9-4435-a43f-cfce17252ff4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.kelas-card:nth-child(1) [onclick=&quot;openModalHapusKelasFromTrigger\(this\)&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' kelas-card ') and (position() = 1)]//*[@onclick = 'openModalHapusKelasFromTrigger(this)']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8a8a1344-1c4f-4ac8-8c7c-1507998cb441</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8cef7394-1634-411e-bb54-a833661c5160</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>openModalHapusKelasFromTrigger(this)</value>
+      <webElementGuid>36aa5204-6f98-43b5-afab-25bffba223fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-kelas-id</name>
+      <type>Main</type>
+      <value>154</value>
+      <webElementGuid>36f0fcdf-3b0e-4180-a211-a62c55d8f0ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-kelas-label</name>
+      <type>Main</type>
+      <value>Kelas Kelas 1 - Kelas 1</value>
+      <webElementGuid>8596f720-63c6-4cd9-8d9e-b08b07d6234b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full text-left px-3 py-2 text-xs text-red-700 hover:bg-red-50</value>
+      <webElementGuid>57022353-a484-4fb6-82eb-917c44708970</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        Hapus
+                                    </value>
+      <webElementGuid>da221c74-5897-42a8-80ad-e611fd6ee87f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-4b769a636daca5f35320ef5c6e15066f</value>
+      <webElementGuid>f7ca27eb-f8ff-4a94-bd74-1ebcb1dd05a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' kelas-card ') and (position() = 1)]//*[@onclick = 'openModalHapusKelasFromTrigger(this)']</value>
+      <webElementGuid>acc090c9-609a-476b-ba83-c996fc483750</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' kelas-card ') and (position() = 1)]//*[@onclick = 'openModalHapusKelasFromTrigger(this)']</value>
+      <webElementGuid>e083c926-f767-45d0-b3d8-5a5e9cf65c8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+                                        Hapus
+                                    ' or . = '
+                                        Hapus
+                                    ')]</value>
+      <webElementGuid>97fd9d94-f4df-4950-9e02-904c24f8e8ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

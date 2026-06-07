@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Kelas</name>
+   <tag></tag>
+   <elementGuidId>c3bc012b-aad5-440f-b713-e580f834795e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#id_kelas</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'id_kelas']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>4bca899e-1eba-4aee-afc1-95a69abba3ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>kelas</value>
+      <webElementGuid>f3e7ff9b-cfaa-4a6f-980a-bfcc4a4ab6e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>id_kelas</value>
+      <webElementGuid>04737b02-0c23-4657-bd95-61cdd2746511</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>00a11ce6-e3ab-4911-b51e-3a1a53b6c83b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih kelas1A1B1B1C1D1E1F1G1H1I1J</value>
+      <webElementGuid>4ca8def1-8581-4ccc-8049-fdb0ad24f207</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-0707a9fa85d926f84d3626dc632d95ec</value>
+      <webElementGuid>62a484be-3016-4459-875f-565671c87a76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'id_kelas']</value>
+      <webElementGuid>170db446-ae50-4ecf-a82c-99fda2f92db0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'id_kelas']</value>
+      <webElementGuid>4a320b65-5a40-451f-8db4-8daaf0ecfc11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'kelas' and @id = 'id_kelas' and (text() = 'Pilih kelas1A1B1B1C1D1E1F1G1H1I1J' or . = 'Pilih kelas1A1B1B1C1D1E1F1G1H1I1J')]</value>
+      <webElementGuid>730997d8-57a4-4d57-af66-f143501bd6cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
